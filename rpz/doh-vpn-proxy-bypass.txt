@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767091200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767119940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 30 Dec 2025 10:40 UTC
-; Version: 2025.1230.1040.24
+; Last modified: 30 Dec 2025 18:39 UTC
+; Version: 2025.1230.1839.33
 ; Syntax: RPZ
-; Number of entries: 12526
+; Number of entries: 12528
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -41,6 +41,8 @@ lolgod1.rinet.ai CNAME .
 *.lolgod1.rinet.ai CNAME .
 lolgod109.rinet.ai CNAME .
 *.lolgod109.rinet.ai CNAME .
+zt.al CNAME .
+*.zt.al CNAME .
 onion.am CNAME .
 *.onion.am CNAME .
 zealginjoka.periodico.am CNAME .
@@ -9681,8 +9683,8 @@ hiload.org CNAME .
 *.hiload.org CNAME .
 hola.org CNAME .
 *.hola.org CNAME .
-beta.holyunblocker.org CNAME .
-*.beta.holyunblocker.org CNAME .
+holyunblocker.org CNAME .
+*.holyunblocker.org CNAME .
 pi.homeanywhere.org CNAME .
 *.pi.homeanywhere.org CNAME .
 homevpn.org CNAME .

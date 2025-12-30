@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Dec 2025 10:40 UTC
-# Version: 2025.1230.1040.24
+# Last modified: 30 Dec 2025 18:39 UTC
+# Version: 2025.1230.1839.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6263
+# Number of entries: 6264
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2682,7 +2682,7 @@ local=/holavpnrussia.com/
 local=/holavpnworld.com/
 local=/holax.io/
 local=/hi.hollandweather.net/
-local=/beta.holyunblocker.org/
+local=/holyunblocker.org/
 local=/cloud2.holzmannclouddns.de/
 local=/socolov.home.ro/
 local=/adguard.home-lab-network.com/
@@ -6259,6 +6259,7 @@ local=/zproxy.de/
 local=/zproxy.org/
 local=/d.zscale.gq/
 local=/zscalertwo.net/
+local=/zt.al/
 local=/ztv.su/
 local=/lookup.zucx.net/
 local=/dns.zui.lol/

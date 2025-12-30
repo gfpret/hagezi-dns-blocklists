@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Dec 2025 14:06 UTC
-# Version: 2025.1230.1406.51
+# Last modified: 30 Dec 2025 18:09 UTC
+# Version: 2025.1230.1809.30
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 86861
+# Number of entries: 86901
 #
 00055edc1917.com
 000free.us
@@ -57,6 +57,7 @@ cdn.00px.net
 01de43bd81375ba3.com
 01e0d91d77d4992e.com
 01gmail.com
+01hs7819681bdh1973891.cfd
 umami.01o.de
 020f3a645c0d464c01cc080652037532.site
 ca7ef4f8d6.0213499675.com
@@ -690,6 +691,7 @@ ns9.18bca7c5fd709ac468ba148c590ef6bf.net
 19196f682eda.app
 1921a285d4a84370.com
 1924174108b9aa7a.com
+1927hs819873j18w2.cfd
 1931b04a065843194db49397e36dafad.info
 195a3265cfc0bc4a.com
 19838dhw10183j10xdi1j4.cfd
@@ -5698,6 +5700,7 @@ static.4wnetwork.com
 50672bda822f91a5c02f8963ddcd2f90.com
 50911be34e55d262.com
 50936ef41d99c2df.com
+509g8j58.cfd
 50a6284b90ed89b4.com
 50a99a6db9ccd0af.com
 50b76a62946e1c78.com
@@ -6253,6 +6256,7 @@ v2.6888.site
 69178f72bb4f237d.com
 69250e779f60737b.com
 69287ayaya.cyou
+6928gj28.sbs
 6935c2fd89adf.com
 6935c2fd89adf.net
 6935c2fd89adf.org
@@ -6284,7 +6288,6 @@ v2.6888.site
 6aef4b1942545023.com
 6af62015da1aaa2ccb4e38001ec9d5bf.com
 6afbd08c5c3c0a29bcddd5e0c657b67bc562d2eb38743ec796ee044eb62facd.link
-6ax5p.icu
 6b0d4650b9f5.info
 6b2d28f400c6.info
 6b31b0abf42071fe.com
@@ -6457,6 +6460,7 @@ ns9.73780fbd309561e201a4aee9914d882d.org
 737e1730fdcc4019.com
 7384a62726c06e12.com
 7398-xaai.cyou
+739h3jh33.cyou
 73cfa251255b.top
 73e8f41a91e11c2e.com
 73ed366d3137ec936bd60b1184467776.com
@@ -6885,6 +6889,7 @@ www.88p2p.com
 892133bafc04d8599aeca3d9d3fb6bc2.xyz
 89296649.xyz
 8939a1bced6e207f.com
+89475.vu
 8948c0891752ef94956687de3576b281f247d510139e9d6378ea0111256ae21.link
 8958jjoo2ofert1.cyou
 8973493a8c2f989f.com
@@ -7111,6 +7116,7 @@ f0fdae6be7.9357f4ba72.com
 95268f747c39b817.com
 953c4383075de1ba.com
 954742a76fe81f8e.com
+95482.vu
 954a906f215c.top
 analytics.95516.com
 955c024d2248a26d.com
@@ -10791,6 +10797,7 @@ adzreach.com
 xml-v4.adzreach.com
 adzs.nl
 analytics.ae.com
+ae-amex-japan-safekey-jp-checktokyo.icu
 ae050ec9a3201f64.com
 ae24a6bcd6e22f53.com
 ae294a6fee57fd70.com
@@ -14275,6 +14282,7 @@ app-facebmall.top
 app-firelight.xyz
 app-hack.com
 app-installer-zoom.com
+app-lighter.live
 app-ligther.xyz
 app-live-c7game.com
 app-live-leyusports.com
@@ -24301,6 +24309,7 @@ foxsports.static.areyouwatchingthis.com
 argantalcs.com
 qw.argelchanger.com
 smetrics.argenta.be
+argenta-be.life
 argiopethyrsuschicago.click
 arglingpistole.com
 jr.argonjugate.com
@@ -24397,7 +24406,6 @@ assets.adv.aryel.io
 analytics.arz.at
 smetrics.as.com
 t.as-stats.com
-as4igsfa.icu
 as7gda.hair
 no-track.as93.net
 asacdn.com
@@ -24859,6 +24867,7 @@ cdn.autoaudience.com
 as.autobild.de
 ast.autobild.de
 utiq.autobild.de
+autocristu.my
 ads.autodesk.com
 analytics.autodesk.com
 akn.analytics.autodesk.com
@@ -34616,6 +34625,7 @@ cntxcdm.com
 amp.cntxcdm.com
 cnvlink.com
 cnvtyajtiwiss.space
+cnwucnf.top
 cnzz.net
 c.cnzz.com
 ei.cnzz.com
@@ -35914,6 +35924,7 @@ conformation-122.shop
 conformation-123.shop
 conformation-124.shop
 conformation-125.shop
+conformation-129.shop
 conformation-1923.shop
 conformation-1924.shop
 conformation-1925.shop
@@ -39339,6 +39350,7 @@ px.derstandard.at
 sgtm.r53.derstandard.at
 sgtm.r53.derstandard.de
 metrics.dertour.de
+derzkiypushok-217.sbs
 desekansr.com
 desenteir.com
 matomo.deseret.com
@@ -46899,7 +46911,6 @@ fgtpvheoxosfk.site
 fgwuw.com
 fh-dxy.com
 fh-wgt.com
-fh4i5asf.icu
 fhvfd.com
 fhxapqvektj.com
 fi-vidalyn.shop
@@ -47618,6 +47629,7 @@ cdn.fqtag.com
 fqvwalkffipfi.site
 utiq.fr.de
 fr-centre-manage.com
+fracilampa.world
 fractionfridgejudiciary.com
 gnqam.fragrancenet.com
 ryvapi.fragrancenet.com
@@ -48104,7 +48116,6 @@ fyglovilo.pro
 fylitcl7pf7kjqdduolqouaxtxbj5ing.com
 fylitcl7pf7ojqdduolqouaxtxbj5ing.com
 fyloratech.cfd
-fynucbve.top
 fywkuzp.ru
 aerc.fyxer.com
 fyxm.net
@@ -52741,6 +52752,7 @@ horizontrailconsulting.life
 sgtm.horizoom-panel.de
 horny.su
 horonstogly.com
+horredilun.my
 horriblyfur.com
 munin.horsch.com
 horsemancognomen.com
@@ -55845,6 +55857,7 @@ j250e.xyz
 j250f.xyz
 i.mxplayer.j2inter.com
 j4l9olpzcp86khvil.cfd
+j4qcgwiv2c7lo55pj1uccf.rest
 j5qtmf.bond
 j7kv55pr70.com
 j93557g.com
@@ -58807,6 +58820,7 @@ stats.p.lodz.pl
 lofcdljzqswbs.online
 analytics.loft.rocks
 tdgii.loft.com
+log-netnet.com
 log-report.com
 loganmedia.mobi
 tracker.loganmedia.mobi
@@ -58992,6 +59006,7 @@ lptrak.com
 lpuacqxrawpu.com
 lpwtbsfgamivm.space
 lq1cou8jylvb97x8j.cfd
+lqbvjmkoozljk.top
 lqfsnws.cc
 lqgjblrrezeib.online
 lqm.io
@@ -60237,6 +60252,7 @@ meetrics.net
 report-ps.meettech.net
 meetwebclub.com
 meetyuorlove.net
+mega-bilhetes-oficial.com
 mega-caixa.org
 mega-telegram.com
 megaad.nz
@@ -64484,6 +64500,7 @@ obstinateannihilatedisrupt.com
 obstructionclasses.com
 obutecao.com
 obvioushome.com
+obvknawel.com
 analytics.obvsg.at
 obwaopxfnxfdw.space
 obzh.ru
@@ -65921,6 +65938,7 @@ ornatebreast.com
 ornatecomputer.com
 ornery-possible.com
 ornitincap.casa
+orow81w17w1.cfd
 orowor.com
 orsvwuqiszi.com
 ortb.net
@@ -68147,6 +68165,7 @@ xml.pops.gg
 xml-v4.pops.gg
 ja.popsilla.com
 cdn.popt.in
+popular-swim.pro
 popular-tea.com
 aiq-in.popularmechanics.com
 td.popularmechanics.com
@@ -68568,6 +68587,7 @@ ado.pro-market.net
 ads.pro-market.net
 fei.pro-market.net
 pbid.pro-market.net
+pro4-39g8g.cyou
 proadscdn.com
 probableregret.com
 problemsmajority.com
@@ -68732,6 +68752,7 @@ cnt.proporn.com
 proposalkeptstaff.com
 propositionpower.com
 proppellerads.ru
+proprietordauntaddition.com
 props.id
 propu.sh
 propub.ru
@@ -69400,6 +69421,15 @@ qgtlndbjewjxa.website
 qgxbluhsgad.com
 qhigh.com
 jspassport.ssl.qhimg.com
+qhres2.com
+ssl.qhres2.com
+s.ssl.qhres2.com
+s0.ssl.qhres2.com
+s1.ssl.qhres2.com
+s2.ssl.qhres2.com
+s3.ssl.qhres2.com
+s4.ssl.qhres2.com
+s5.ssl.qhres2.com
 qhupdate.com
 ps.qhupdate.com
 res.qhupdate.com
@@ -70666,6 +70696,7 @@ register-blindfold.fun
 register-snowball.com
 registrytodaylocked.com
 reglement-connect.com
+regler-ma-livraison.com
 regnow.com
 regulatesleet.com
 regulationprivilegescan.top
@@ -71505,6 +71536,7 @@ ridingpertconquest.com
 ridottofullams.click
 ssp-tr-oe.rierra-ads.com
 riferschit.world
+rifi18f11.cfd
 rifreringr.world
 rigaldephl.world
 rigelink.com
@@ -72486,7 +72518,6 @@ sacredfinalzoology.com
 sacwumsf.com
 sadbasindinner.com
 sadcoin.top
-sadig4ns.icu
 api.sae.systems
 apm-rum.sae.systems
 safeaccessapp.com
@@ -72838,6 +72869,7 @@ scalemonk.com
 mmp001.scalemonk.com
 scalonilive.com
 scaloniyonner.com
+scalvrossi.my
 scalyreward.com
 scanguard.com
 scannings-collab.land
@@ -73043,7 +73075,6 @@ map.sddan.com
 mapr.sddan.com
 sdertjnbv.xyz
 sdeukvltno.com
-sdg4saga.icu
 sdiapi.com
 eif-chipotle.sdiapi.com
 eif-sig01.sdiapi.com
@@ -73271,6 +73302,7 @@ selfcampaign.com
 lib.selfcampaign.com
 track2.selfcampaign.com
 selfcontrolextraordinary.com
+selfgems.com
 analytics.selfh.st
 selfpro-live.online
 selfpro-live.ru
@@ -73798,6 +73830,7 @@ sf-gateway.sf-insights.io
 tracker.sf-insights.io
 sf14g.com
 t.sf14g.com
+sfalslingu.world
 sfc.bz
 q777.sfchronicle.com
 c.q777.sfchronicle.com
@@ -73950,6 +73983,7 @@ shelljacket.us
 shellnescarlett.com
 trk.shelly.cloud
 creative.shemale.show
+shemrec.cc
 shenajou.com
 shengfleming.com
 shenshiads.com
@@ -74690,6 +74724,7 @@ logs.sjrollins.com
 sjsmartcontent.org
 sjsmartcontent.ru
 cdn.sjsmartcontent.ru
+sk200309-1119.cyou
 ska4at.ru
 skagenyoga.com
 skarbnicanarodowa.pl
@@ -76450,6 +76485,7 @@ cdn.staticfile.org
 px.staticfiles.at
 staticgalaksion.com
 iads.staticscdn.net
+prm.staticstream.org
 staticstuff.net
 hello.staticstuff.net
 win.staticstuff.net
@@ -77662,6 +77698,7 @@ dmp.tapnative.com
 health.tapnative.com
 i.tapnative.com
 rtb-east.tapnative.com
+taposaupbend.com
 tappads.io
 tappishchicory.com
 tappx.com
@@ -79008,6 +79045,7 @@ tkpdrpqufaxuc.com
 tkrconnector.com
 cdn.tkrconnector.com
 tksua4.ru
+tkyw985rm5nllqi8pxne1zuv.cfd
 tlauncher.org
 tlauncher.ru
 ssa.tlc.com
@@ -79697,6 +79735,7 @@ trasdnovem.pro
 trashdisguisedextension.com
 ar.trashreality.com
 nl.trashreality.com
+traslletiz.world
 trasmmirin.world
 trasre.com
 trasupr.com
@@ -80981,6 +81020,7 @@ cdn.prod.uidapi.com
 global.prod.uidapi.com
 sg.prod.uidapi.com
 uidsync.net
+uikkkoo6789.cyou
 uilts.com
 uimarketpro.com
 uimserv.net
@@ -84379,6 +84419,7 @@ cnt.winporn.com
 winterrowd.com
 wintrck.com
 winworker.club
+winxcent.com
 winzipregistryoptimizer.com
 wipe.de
 wa.wipe.de
@@ -86160,7 +86201,6 @@ yucatecyogins.rest
 yuckyducks.xyz
 yudvl.org
 yugvawefin.cloud
-yuhuan.cc
 yuiiy.com
 yukclick.me
 yukishigure.com

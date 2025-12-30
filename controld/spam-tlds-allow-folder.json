@@ -3039,6 +3039,13 @@
       }
     },
     {
+      "PK": "minecraft.hot",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "minecraft.wiki",
       "action": {
         "do": 1,

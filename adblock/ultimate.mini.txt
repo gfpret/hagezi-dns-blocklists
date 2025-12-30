@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 30 Dec 2025 14:24 UTC
-! Version: 2025.1230.1424.49
+! Last modified: 30 Dec 2025 18:28 UTC
+! Version: 2025.1230.1828.26
 ! Syntax: AdBlock
-! Number of entries: 75182
+! Number of entries: 75202
 !
 ||tracker.guguan.000.pe^
 ||00055edc1917.com^
@@ -1046,6 +1046,7 @@
 ||dbt.dopascalls.1und1.de^
 ||odc.1und1.de^
 ||pixel.1und1.de^
+||1usdtmixer.com^
 ||1v4wigcyhgjh4xug.rest^
 ||1vco.com^
 ||1video-online.me^
@@ -3192,7 +3193,6 @@
 ||6aef4b1942545023.com^
 ||6af62015da1aaa2ccb4e38001ec9d5bf.com^
 ||6afbd08c5c3c0a29bcddd5e0c657b67bc562d2eb38743ec796ee044eb62facd.link^
-||6ax5p.icu^
 ||6b0d4650b9f5.info^
 ||6b2d28f400c6.info^
 ||6b31b0abf42071fe.com^
@@ -9875,6 +9875,7 @@
 ||app-hack.com^
 ||app-installer-zoom.com^
 ||app-legion.com^
+||app-lighter.live^
 ||app-ligther.xyz^
 ||app-link.help^
 ||app-link.info^
@@ -10313,6 +10314,7 @@
 ||arch-projekt.pl^
 ||insights.dyn.archdaily.com^
 ||archegirad.sbs^
+||archepelagoarts.com^
 ||archermalmo.com^
 ||archeusdungs.com^
 ||archipelago-arts.com^
@@ -10530,7 +10532,6 @@
 ||as-rilona.info^
 ||t.as-stats.com^
 ||as24-business-telemetry.eu-west-1.infinity.as24.tech^
-||as4igsfa.icu^
 ||as7gda.hair^
 ||no-track.as93.net^
 ||asa.com^
@@ -17792,6 +17793,7 @@
 ||apm.christianbook.com^
 ||christiantimes.com^
 ||christmas-polymarket.com^
+||christmas-snowball.xyz^
 ||christmas-trump-giveaway.com^
 ||christmas-xrp.com^
 ||christmasdealssg.shop^
@@ -19092,6 +19094,7 @@
 ||cnvlink.com^
 ||cnvr.net^
 ||cnvtyajtiwiss.space^
+||cnwucnf.top^
 ||cnzz.cn^
 ||cnzz.com^
 ||cnzz.net^
@@ -19948,6 +19951,7 @@
 ||mixpanel-proxy.coingecko.com^
 ||widgets.coingecko.com^
 ||plausible.coinglass.com^
+||coinhaven.us^
 ||coinhive.com^
 ||coinimp.com^
 ||coinkktraychat.com^
@@ -21140,6 +21144,7 @@
 ||conformation-124.shop^
 ||conformation-125.shop^
 ||conformation-127.shop^
+||conformation-129.shop^
 ||conformation-1923.shop^
 ||conformation-1924.shop^
 ||conformation-1925.shop^
@@ -23143,6 +23148,7 @@
 ||dauntonedder.com^
 ||dauup.com^
 ||dauvoptaucoaby.com^
+||davadosyalarim.org^
 ||analytics.e.daveandbusters.com^
 ||saa.daveandbusters.com^
 ||track.davidsbridal.com^
@@ -23860,6 +23866,7 @@
 ||sgtm.r53.derstandard.de^
 ||metrics.dertour.de^
 ||cp.derwesten.de^
+||derzkiypushok-217.sbs^
 ||desabre.com^
 ||desafio-finaldeanofeliz.shop^
 ||deschl.net^
@@ -27297,6 +27304,7 @@
 ||engridfanlike.com^
 ||engrievinebef.fun^
 ||enhencer.com^
+||enhesaplimarketalisverislistesi.cfd^
 ||enield.com^
 ||enigmasoftware.com^
 ||enigmaticcanyon.com^
@@ -29183,7 +29191,6 @@
 ||fgwuw.com^
 ||fh-dxy.com^
 ||fh-wgt.com^
-||fh4i5asf.icu^
 ||collector.fhaccess.com^
 ||go.fhlbny.com^
 ||fhrus.top^
@@ -30987,7 +30994,6 @@
 ||fyloratech.cfd^
 ||fynterra.com^
 ||fyntora.com^
-||fynucbve.top^
 ||fywkuzp.ru^
 ||aerc.fyxer.com^
 ||fyxfleet.com^
@@ -32524,6 +32530,7 @@
 ||gmo-aozora.icu^
 ||gmodules.com^
 ||collector.vseinstrumenti.gmonit.ru^
+||collector.winelab.gmonit.ru^
 ||gmossp-sp.jp^
 ||gmslb.net^
 ||sentry.infra.gmt.io^
@@ -35491,7 +35498,6 @@
 ||hotgraph88.click^
 ||hothomefuck.com^
 ||hotimail.com^
-||hotishop.com^
 ||hotivl.com^
 ||hotjar.com^
 ||hotjar.io^
@@ -38212,6 +38218,7 @@
 ||j3v25u.com^
 ||j4l9olpzcp86khvil.cfd^
 ||j4ozqj1q8z.world^
+||j4qcgwiv2c7lo55pj1uccf.rest^
 ||j54e9jge6e.world^
 ||j5g14z7498.top^
 ||j5qtmf.bond^
@@ -42419,6 +42426,7 @@
 ||lpuegx.biz^
 ||lpwtbsfgamivm.space^
 ||lq1cou8jylvb97x8j.cfd^
+||lqbvjmkoozljk.top^
 ||lqfsnws.cc^
 ||lqgjblrrezeib.online^
 ||lqm.io^
@@ -44000,6 +44008,7 @@
 ||meetyuorlove.net^
 ||meexy.com^
 ||mefound.com^
+||mega-bilhetes-oficial.com^
 ||mega-caixa.org^
 ||mega-telegram.com^
 ||megaad.nz^
@@ -45492,6 +45501,7 @@
 ||moonnshot.live^
 ||moonnshots.info^
 ||moonoafy.net^
+||moonpaycard.com^
 ||otel-collector.moonpaycloud.com^
 ||moonshotes.com^
 ||moonshots.cloud^
@@ -47920,6 +47930,7 @@
 ||adtd.nocibe.fr^
 ||tccd.nocibe.fr^
 ||tttd.nocibe.fr^
+||nock-chain.pro^
 ||nocodelytics.com^
 ||sdk-tracker.noctuaprojects.com^
 ||nocturnalaverage.com^
@@ -48649,6 +48660,7 @@
 ||obstructionclasses.com^
 ||obutecao.com^
 ||obvioushome.com^
+||obvknawel.com^
 ||analytics.obvsg.at^
 ||obwaopxfnxfdw.space^
 ||obzh.ru^
@@ -52610,6 +52622,7 @@
 ||popt.in^
 ||poptin.com^
 ||poptoyssgcenter.com^
+||popular-swim.pro^
 ||popular-tea.com^
 ||popularedstore.com^
 ||aiq-in.popularmechanics.com^
@@ -53456,6 +53469,7 @@
 ||proposalkeptstaff.com^
 ||propositionpower.com^
 ||proppellerads.ru^
+||proprietordauntaddition.com^
 ||props.id^
 ||propsad.com^
 ||propu.sh^
@@ -54242,6 +54256,7 @@
 ||jspassport.ssl.qhimg.com^
 ||p3.qhimgs0.com^
 ||p3.ssl.qhimgs0.com^
+||qhres2.com^
 ||res.qhsetup.com^
 ||qhsomdhk.com^
 ||news.qhstatic.com^
@@ -55834,6 +55849,7 @@
 ||registration-lighter.xyz^
 ||registrytodaylocked.com^
 ||reglement-connect.com^
+||regler-ma-livraison.com^
 ||regnow.com^
 ||regularize-agora.sbs^
 ||regulatesleet.com^
@@ -57604,7 +57620,6 @@
 ||sadatasolutions.com^
 ||sadbasindinner.com^
 ||sadcoin.top^
-||sadig4ns.icu^
 ||api.sae.systems^
 ||apm-rum.sae.systems^
 ||data-60d896f23d.saechsische.de^
@@ -58188,6 +58203,7 @@
 ||scalinghandbook.com^
 ||scalonilive.com^
 ||scaloniyonner.com^
+||scalvrossi.my^
 ||scalyreward.com^
 ||scan.page^
 ||scan-pdf.site^
@@ -58456,7 +58472,6 @@
 ||sdeukvltno.com^
 ||sdf3rt243.cc^
 ||sdfc-tg.com^
-||sdg4saga.icu^
 ||sdiapi.com^
 ||sdiptest.com^
 ||sdk-amazon.xyz^
@@ -58880,7 +58895,7 @@
 ||permutive.self.com^
 ||selfcampaign.com^
 ||selfcontrolextraordinary.com^
-||track.selfgems.com^
+||selfgems.com^
 ||analytics.selfh.st^
 ||selfnewway.com^
 ||selfpro-live.online^
@@ -58989,6 +59004,7 @@
 ||sensismderog.com^
 ||sensitiveclick.com^
 ||sensohellers.life^
+||sensorpanorama.xyz^
 ||sensorsdata.cn^
 ||sensorsdata.com^
 ||sensorsdatavip.com^
@@ -59532,6 +59548,7 @@
 ||sentry.offline.shelopes.com^
 ||creative.shemale.show^
 ||shemedia.com^
+||shemrec.cc^
 ||shenajou.com^
 ||shengfleming.com^
 ||shenshiads.com^
@@ -62312,6 +62329,7 @@
 ||staticimgfarm.com^
 ||iads.staticscdn.net^
 ||adobe-dtm.staticsfly.com^
+||prm.staticstream.org^
 ||staticstuff.net^
 ||statifuras.world^
 ||statigr.am^
@@ -63829,6 +63847,7 @@
 ||api.taplytics.com^
 ||ping.taplytics.com^
 ||tapnative.com^
+||taposaupbend.com^
 ||tapouts.online^
 ||tappads.io^
 ||monitor.tapper.ai^
@@ -65509,6 +65528,7 @@
 ||tkshopers.com^
 ||tksua4.ru^
 ||tkvipshop.club^
+||tkyw985rm5nllqi8pxne1zuv.cfd^
 ||tl-res.com^
 ||tlauncher.org^
 ||tlauncher.ru^
@@ -68719,7 +68739,6 @@
 ||vcenter-pytorch-whatsapp.xyz^
 ||core.vchat.vn^
 ||vclick.vn^
-||vcmdiawe.com^
 ||vcmedia.vn^
 ||vcom.com^
 ||vcommission.com^
@@ -70081,6 +70100,7 @@
 ||vote-solvprotocois.com^
 ||vote-worldlibertyfinancial.xyz^
 ||vote-worldlibertyfinancials.xyz^
+||votes-aav.com^
 ||votes-lombard.finance^
 ||votetuunsec.sbs^
 ||vouphoanooque.net^
@@ -71708,6 +71728,7 @@
 ||winweeklygivinglucky.autos^
 ||winwin.bet^
 ||winworker.club^
+||winxcent.com^
 ||winzipdriverupdater.com^
 ||winzipregistryoptimizer.com^
 ||trk.winzyx.com^
@@ -74168,7 +74189,6 @@
 ||yuga.ru^
 ||yugukj.com^
 ||yugvawefin.cloud^
-||yuhuan.cc^
 ||yuiiy.com^
 ||yuioijhgh.sbs^
 ||yuirr4o.shop^
