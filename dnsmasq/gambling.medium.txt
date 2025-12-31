@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 31 Dec 2025 10:30 UTC
-# Version: 2025.1231.1030.00
+# Last modified: 31 Dec 2025 14:28 UTC
+# Version: 2025.1231.1428.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 88719
+# Number of entries: 88715
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -36787,7 +36787,6 @@ local=/edm88bets.site/
 local=/edmconcretecontractors.com/
 local=/edodolan.id/
 local=/edomaajka.airforce/
-local=/edoprom.com/
 local=/edpill.store/
 local=/edsbet.com/
 local=/apexcasino.edu.pl/
@@ -56316,7 +56315,6 @@ local=/menangkumbang.xyz/
 local=/menanglele.blog/
 local=/menangmenang.pro/
 local=/menangpahlawan.xyz/
-local=/menangtinggi.website/
 local=/menangtoto.vip/
 local=/menara188casino88.store/
 local=/menara188poker.store/
@@ -72507,7 +72505,6 @@ local=/rtpagendunia55.pics/
 local=/rtpagendunia55.quest/
 local=/rtpagenkilat.site/
 local=/rtpagusbet.icu/
-local=/rtpakurat-visa288.xyz/
 local=/rtpalternatifkoinslots.giving/
 local=/rtpananta.xyz/
 local=/rtparah.xyz/
@@ -87756,7 +87753,6 @@ local=/yabbycasinonline.com/
 local=/yabbycasinose.com/
 local=/yabotiyubetstar.com/
 local=/yabtcl.com/
-local=/yacasino.net/
 local=/yachtpoker.xyz/
 local=/yaguplay.com/
 local=/yajuego.co/

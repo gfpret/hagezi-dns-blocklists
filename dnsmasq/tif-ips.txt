@@ -27514,6 +27514,7 @@ bogus-nxdomain=212.73.148.8
 bogus-nxdomain=212.73.148.9
 bogus-nxdomain=212.73.75.82
 bogus-nxdomain=212.73.75.84
+bogus-nxdomain=212.8.48.24
 bogus-nxdomain=212.80.8.200
 bogus-nxdomain=212.83.165.218
 bogus-nxdomain=212.83.189.206

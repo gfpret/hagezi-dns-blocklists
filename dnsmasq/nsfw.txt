@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 31 Dec 2025 10:33 UTC
-# Version: 2025.1231.1033.36
+# Last modified: 31 Dec 2025 14:32 UTC
+# Version: 2025.1231.1432.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 79778
+# Number of entries: 79771
 #
 local=/000000000000000000000000000000000000000000000000000000000000000.gay/
 local=/001-adult-toys-n-sex-dolls.com/
@@ -16392,7 +16392,6 @@ local=/curesex.com/
 local=/curiosexplained.com/
 local=/curious-creature.com/
 local=/curiowhisper.com/
-local=/sexshop.curitiba.br/
 local=/curitibaacompanhantes.com/
 local=/currycreampie.com/
 local=/cursed.gay/
@@ -24770,7 +24769,6 @@ local=/g-oogle.com/
 local=/g-sg.jp/
 local=/g-xxxhub.com/
 local=/g1kgay0.shop/
-local=/g2-mp.ru/
 local=/g2blazing.com/
 local=/g2fame.com/
 local=/g2g.cam/
@@ -27988,7 +27986,6 @@ local=/habragay.tech/
 local=/habragay2.xyz/
 local=/habsbuag.xxx/
 local=/hack.xxx/
-local=/hacker.porn/
 local=/hackersexchange.com/
 local=/hacksexy.com/
 local=/subvert-rpki.hactrn.net/
@@ -50905,7 +50902,6 @@ local=/pornoshock.org/
 local=/pornoshq.com/
 local=/pornoshub.icu/
 local=/pornoshuffler.xyz/
-local=/pornosiki.pl/
 local=/pornosikis.com/
 local=/pornosikisizlefullhd.com/
 local=/pornosimka.com/
@@ -62623,7 +62619,6 @@ local=/shangyigs.com/
 local=/shapeofbeauty.com/
 local=/shapesexchange.xyz/
 local=/sharaku.us/
-local=/share.mobi/
 local=/share-image.com/
 local=/share-videos.se/
 local=/shareadult.xyz/
@@ -66697,7 +66692,6 @@ local=/thatcasualgayvampire.com/
 local=/thatfetishgirl.com/
 local=/thatpervert.com/
 local=/thatpornvideos.biz/
-local=/thatsexton.com/
 local=/thatsitcomshow.com/
 local=/thawsex.online/
 local=/thayksada.com/
@@ -72997,7 +72991,6 @@ local=/www77.icu/
 local=/www96.ru/
 local=/wwwarporn.com/
 local=/wwwdanaxxxx.net/
-local=/wwwhsex.icu/
 local=/wwwjjxxxav.com/
 local=/wwwmydirtyhobby.de/
 local=/wwwporn.biz/

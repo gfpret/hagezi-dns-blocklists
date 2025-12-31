@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 31 Dec 2025 10:28 UTC
-# Version: 2025.1231.1028.12
+# Last modified: 31 Dec 2025 14:27 UTC
+# Version: 2025.1231.1427.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 202945
+# Number of entries: 202940
 #
 local=/0-bdmbet.com/
 local=/0-bet.com/
@@ -81252,7 +81252,6 @@ local=/casinobe.online/
 local=/casinobeam.com/
 local=/casinobeasts.com/
 local=/casinobeats.com/
-local=/casinobeats.se/
 local=/casinobeatsv.com/
 local=/casinobedommelse.com/
 local=/casinobedste.com/
@@ -101283,7 +101282,6 @@ local=/edm88bets.site/
 local=/edmconcretecontractors.com/
 local=/edodolan.id/
 local=/edomaajka.airforce/
-local=/edoprom.com/
 local=/edpill.store/
 local=/edsbet.com/
 local=/apexcasino.edu.pl/
@@ -106044,6 +106042,7 @@ local=/flappycasino.se/
 local=/flappycasino-ca.com/
 local=/flappycasino-sverige.com/
 local=/flappycasino-sweden.com/
+local=/flappycasino2.co/
 local=/flappycasino2.com/
 local=/flappycasino3.com/
 local=/flappycasino4.com/
@@ -109878,7 +109877,6 @@ local=/gamesduell.com/
 local=/gamesforyou.icu/
 local=/gamesgrid.com/
 local=/gameshub.com/
-local=/gameshub.se/
 local=/gameslot77.info/
 local=/gameslot777.info/
 local=/gameslot88.net/
@@ -142264,7 +142262,6 @@ local=/menangolahraga.com/
 local=/menangolahragatop.com/
 local=/menangpahlawan.xyz/
 local=/menangqq.net/
-local=/menangtinggi.website/
 local=/menangtoto.vip/
 local=/menara188casino88.store/
 local=/menara188poker.store/
@@ -168381,7 +168378,6 @@ local=/rtpagendunia55.quest/
 local=/rtpagenkilat.site/
 local=/rtpagusbet.icu/
 local=/rtpakunjp.com/
-local=/rtpakurat-visa288.xyz/
 local=/rtpakuratsnicasino.xyz/
 local=/rtpalternatifkoinslots.giving/
 local=/rtpananta.xyz/
@@ -200231,7 +200227,6 @@ local=/yabos88vip1a.com/
 local=/yabotg.com/
 local=/yabotiyubetstar.com/
 local=/yabtcl.com/
-local=/yacasino.net/
 local=/yachtpoker.xyz/
 local=/yadoai.shop/
 local=/yaf3fda1.buzz/

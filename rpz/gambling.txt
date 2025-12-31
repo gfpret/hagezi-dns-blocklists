@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767176880 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767191220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 31 Dec 2025 10:28 UTC
-; Version: 2025.1231.1028.12
+; Last modified: 31 Dec 2025 14:27 UTC
+; Version: 2025.1231.1427.08
 ; Syntax: RPZ
-; Number of entries: 405890
+; Number of entries: 405880
 ;
 1xbet.ac CNAME .
 *.1xbet.ac CNAME .
@@ -42976,6 +42976,8 @@ fk774.co CNAME .
 *.fk774.co CNAME .
 flappycasino.co CNAME .
 *.flappycasino.co CNAME .
+flappycasino2.co CNAME .
+*.flappycasino2.co CNAME .
 flauta777.co CNAME .
 *.flauta777.co CNAME .
 folkbet.co CNAME .
@@ -168404,8 +168406,6 @@ edirectoryworld.com CNAME .
 *.edirectoryworld.com CNAME .
 edmconcretecontractors.com CNAME .
 *.edmconcretecontractors.com CNAME .
-edoprom.com CNAME .
-*.edoprom.com CNAME .
 edsbet.com CNAME .
 *.edsbet.com CNAME .
 educacionfinancieraycriptomonedas.com CNAME .
@@ -319176,8 +319176,6 @@ yabo55.net CNAME .
 *.yabo55.net CNAME .
 yabo555.net CNAME .
 *.yabo555.net CNAME .
-yacasino.net CNAME .
-*.yacasino.net CNAME .
 yamabet.net CNAME .
 *.yamabet.net CNAME .
 yamasports.net CNAME .
@@ -349540,8 +349538,6 @@ casinobankid.se CNAME .
 *.casinobankid.se CNAME .
 casinobasen.se CNAME .
 *.casinobasen.se CNAME .
-casinobeats.se CNAME .
-*.casinobeats.se CNAME .
 casinobetting.se CNAME .
 *.casinobetting.se CNAME .
 casinobetyg.se CNAME .
@@ -349864,8 +349860,6 @@ gamblersvardag.se CNAME .
 *.gamblersvardag.se CNAME .
 gamdom-casino.se CNAME .
 *.gamdom-casino.se CNAME .
-gameshub.se CNAME .
-*.gameshub.se CNAME .
 gami-casino.se CNAME .
 *.gami-casino.se CNAME .
 genting-casino.se CNAME .
@@ -389982,8 +389976,6 @@ maxwin88free.website CNAME .
 *.maxwin88free.website CNAME .
 mechaslot.website CNAME .
 *.mechaslot.website CNAME .
-menangtinggi.website CNAME .
-*.menangtinggi.website CNAME .
 merkurcasino.website CNAME .
 *.merkurcasino.website CNAME .
 mexicocasino.website CNAME .
@@ -402536,8 +402528,6 @@ rtpafkgacor.xyz CNAME .
 *.rtpafkgacor.xyz CNAME .
 rtpagbetskuy.xyz CNAME .
 *.rtpagbetskuy.xyz CNAME .
-rtpakurat-visa288.xyz CNAME .
-*.rtpakurat-visa288.xyz CNAME .
 rtpakuratsnicasino.xyz CNAME .
 *.rtpakuratsnicasino.xyz CNAME .
 rtpananta.xyz CNAME .

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 31 Dec 2025 10:33 UTC
-! Version: 2025.1231.1033.36
+! Last modified: 31 Dec 2025 14:32 UTC
+! Version: 2025.1231.1432.26
 ! Syntax: AdBlock
-! Number of entries: 79778
+! Number of entries: 79771
 !
 ||000000000000000000000000000000000000000000000000000000000000000.gay^
 ||001-adult-toys-n-sex-dolls.com^
@@ -16393,7 +16393,6 @@
 ||curiosexplained.com^
 ||curious-creature.com^
 ||curiowhisper.com^
-||sexshop.curitiba.br^
 ||curitibaacompanhantes.com^
 ||currycreampie.com^
 ||cursed.gay^
@@ -24771,7 +24770,6 @@
 ||g-sg.jp^
 ||g-xxxhub.com^
 ||g1kgay0.shop^
-||g2-mp.ru^
 ||g2blazing.com^
 ||g2fame.com^
 ||g2g.cam^
@@ -27989,7 +27987,6 @@
 ||habragay2.xyz^
 ||habsbuag.xxx^
 ||hack.xxx^
-||hacker.porn^
 ||hackersexchange.com^
 ||hacksexy.com^
 ||subvert-rpki.hactrn.net^
@@ -50906,7 +50903,6 @@
 ||pornoshq.com^
 ||pornoshub.icu^
 ||pornoshuffler.xyz^
-||pornosiki.pl^
 ||pornosikis.com^
 ||pornosikisizlefullhd.com^
 ||pornosimka.com^
@@ -62624,7 +62620,6 @@
 ||shapeofbeauty.com^
 ||shapesexchange.xyz^
 ||sharaku.us^
-||share.mobi^
 ||share-image.com^
 ||share-videos.se^
 ||shareadult.xyz^
@@ -66698,7 +66693,6 @@
 ||thatfetishgirl.com^
 ||thatpervert.com^
 ||thatpornvideos.biz^
-||thatsexton.com^
 ||thatsitcomshow.com^
 ||thawsex.online^
 ||thayksada.com^
@@ -72998,7 +72992,6 @@
 ||www96.ru^
 ||wwwarporn.com^
 ||wwwdanaxxxx.net^
-||wwwhsex.icu^
 ||wwwjjxxxav.com^
 ||wwwmydirtyhobby.de^
 ||wwwporn.biz^

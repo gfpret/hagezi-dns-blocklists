@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 31 Dec 2025 10:28 UTC
-# Version: 2025.1231.1028.12
+# Last modified: 31 Dec 2025 14:27 UTC
+# Version: 2025.1231.1427.08
 # Syntax: Domains (without subdomains)
-# Number of entries: 202945
+# Number of entries: 202940
 #
 0-bdmbet.com
 0-bet.com
@@ -81252,7 +81252,6 @@ casinobe.online
 casinobeam.com
 casinobeasts.com
 casinobeats.com
-casinobeats.se
 casinobeatsv.com
 casinobedommelse.com
 casinobedste.com
@@ -101283,7 +101282,6 @@ edm88bets.site
 edmconcretecontractors.com
 edodolan.id
 edomaajka.airforce
-edoprom.com
 edpill.store
 edsbet.com
 apexcasino.edu.pl
@@ -106044,6 +106042,7 @@ flappycasino.se
 flappycasino-ca.com
 flappycasino-sverige.com
 flappycasino-sweden.com
+flappycasino2.co
 flappycasino2.com
 flappycasino3.com
 flappycasino4.com
@@ -109878,7 +109877,6 @@ gamesduell.com
 gamesforyou.icu
 gamesgrid.com
 gameshub.com
-gameshub.se
 gameslot77.info
 gameslot777.info
 gameslot88.net
@@ -142264,7 +142262,6 @@ menangolahraga.com
 menangolahragatop.com
 menangpahlawan.xyz
 menangqq.net
-menangtinggi.website
 menangtoto.vip
 menara188casino88.store
 menara188poker.store
@@ -168381,7 +168378,6 @@ rtpagendunia55.quest
 rtpagenkilat.site
 rtpagusbet.icu
 rtpakunjp.com
-rtpakurat-visa288.xyz
 rtpakuratsnicasino.xyz
 rtpalternatifkoinslots.giving
 rtpananta.xyz
@@ -200231,7 +200227,6 @@ yabos88vip1a.com
 yabotg.com
 yabotiyubetstar.com
 yabtcl.com
-yacasino.net
 yachtpoker.xyz
 yadoai.shop
 yaf3fda1.buzz

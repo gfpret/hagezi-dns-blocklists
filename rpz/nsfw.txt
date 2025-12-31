@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767177180 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767191520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 31 Dec 2025 10:33 UTC
-; Version: 2025.1231.1033.36
+; Last modified: 31 Dec 2025 14:32 UTC
+; Version: 2025.1231.1432.26
 ; Syntax: RPZ
-; Number of entries: 159556
+; Number of entries: 159542
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -4168,8 +4168,6 @@ zeroporn.com.br CNAME .
 *.zeroporn.com.br CNAME .
 zona.com.br CNAME .
 *.zona.com.br CNAME .
-sexshop.curitiba.br CNAME .
-*.sexshop.curitiba.br CNAME .
 meuscontoseroticos.eco.br CNAME .
 *.meuscontoseroticos.eco.br CNAME .
 vipsex.emp.br CNAME .
@@ -72338,8 +72336,6 @@ thatfetishgirl.com CNAME .
 *.thatfetishgirl.com CNAME .
 thatpervert.com CNAME .
 *.thatpervert.com CNAME .
-thatsexton.com CNAME .
-*.thatsexton.com CNAME .
 thatsitcomshow.com CNAME .
 *.thatsitcomshow.com CNAME .
 thayksada.com CNAME .
@@ -89658,8 +89654,6 @@ vuku.icu CNAME .
 *.vuku.icu CNAME .
 www77.icu CNAME .
 *.www77.icu CNAME .
-wwwhsex.icu CNAME .
-*.wwwhsex.icu CNAME .
 xdxx6.icu CNAME .
 *.xdxx6.icu CNAME .
 xmxx.icu CNAME .
@@ -99444,8 +99438,6 @@ sexybf.mobi CNAME .
 *.sexybf.mobi CNAME .
 sexyindians.mobi CNAME .
 *.sexyindians.mobi CNAME .
-share.mobi CNAME .
-*.share.mobi CNAME .
 sikwap.mobi CNAME .
 *.sikwap.mobi CNAME .
 simozo.mobi CNAME .
@@ -117070,8 +117062,6 @@ pornole.pl CNAME .
 *.pornole.pl CNAME .
 pornolinki.pl CNAME .
 *.pornolinki.pl CNAME .
-pornosiki.pl CNAME .
-*.pornosiki.pl CNAME .
 pornowizjer.pl CNAME .
 *.pornowizjer.pl CNAME .
 pornzog.pl CNAME .
@@ -117378,8 +117368,6 @@ green.porn CNAME .
 *.green.porn CNAME .
 guru.porn CNAME .
 *.guru.porn CNAME .
-hacker.porn CNAME .
-*.hacker.porn CNAME .
 hdteen.porn CNAME .
 *.hdteen.porn CNAME .
 hdtube.porn CNAME .
@@ -120426,8 +120414,6 @@ funtema.ru CNAME .
 *.funtema.ru CNAME .
 fuyuan.ru CNAME .
 *.fuyuan.ru CNAME .
-g2-mp.ru CNAME .
-*.g2-mp.ru CNAME .
 gavmyau.ru CNAME .
 *.gavmyau.ru CNAME .
 gay.ru CNAME .

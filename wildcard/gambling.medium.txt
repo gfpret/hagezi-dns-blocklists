@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 31 Dec 2025 10:30 UTC
-# Version: 2025.1231.1030.00
+# Last modified: 31 Dec 2025 14:28 UTC
+# Version: 2025.1231.1428.57
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 88719
+# Number of entries: 88715
 #
 *.0-casino.info
 *.000-online-casino.com
@@ -36787,7 +36787,6 @@
 *.edmconcretecontractors.com
 *.edodolan.id
 *.edomaajka.airforce
-*.edoprom.com
 *.edpill.store
 *.edsbet.com
 *.apexcasino.edu.pl
@@ -56316,7 +56315,6 @@
 *.menanglele.blog
 *.menangmenang.pro
 *.menangpahlawan.xyz
-*.menangtinggi.website
 *.menangtoto.vip
 *.menara188casino88.store
 *.menara188poker.store
@@ -72507,7 +72505,6 @@
 *.rtpagendunia55.quest
 *.rtpagenkilat.site
 *.rtpagusbet.icu
-*.rtpakurat-visa288.xyz
 *.rtpalternatifkoinslots.giving
 *.rtpananta.xyz
 *.rtparah.xyz
@@ -87756,7 +87753,6 @@
 *.yabbycasinose.com
 *.yabotiyubetstar.com
 *.yabtcl.com
-*.yacasino.net
 *.yachtpoker.xyz
 *.yaguplay.com
 *.yajuego.co

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767177060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767191340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 31 Dec 2025 10:31 UTC
-; Version: 2025.1231.1031.17
+; Last modified: 31 Dec 2025 14:29 UTC
+; Version: 2025.1231.1429.55
 ; Syntax: RPZ
-; Number of entries: 80964
+; Number of entries: 80956
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -27204,8 +27204,6 @@ edgewater-casino.com CNAME .
 *.edgewater-casino.com CNAME .
 edmconcretecontractors.com CNAME .
 *.edmconcretecontractors.com CNAME .
-edoprom.com CNAME .
-*.edoprom.com CNAME .
 edsbet.com CNAME .
 *.edsbet.com CNAME .
 ee11aa.com CNAME .
@@ -60542,8 +60540,6 @@ xn--ntcasinot-v2a.net CNAME .
 *.xn--ntcasinot-v2a.net CNAME .
 xpage777.net CNAME .
 *.xpage777.net CNAME .
-yacasino.net CNAME .
-*.yacasino.net CNAME .
 yanncasino.net CNAME .
 *.yanncasino.net CNAME .
 ybets.net CNAME .
@@ -78966,8 +78962,6 @@ malaysiacasino.website CNAME .
 *.malaysiacasino.website CNAME .
 mechaslot.website CNAME .
 *.mechaslot.website CNAME .
-menangtinggi.website CNAME .
-*.menangtinggi.website CNAME .
 mexicocasino.website CNAME .
 *.mexicocasino.website CNAME .
 my-genting-casino.website CNAME .
@@ -80482,8 +80476,6 @@ rt138joinpasticuan.xyz CNAME .
 *.rt138joinpasticuan.xyz CNAME .
 rtp-leci123.xyz CNAME .
 *.rtp-leci123.xyz CNAME .
-rtpakurat-visa288.xyz CNAME .
-*.rtpakurat-visa288.xyz CNAME .
 rtpbandit77.xyz CNAME .
 *.rtpbandit77.xyz CNAME .
 rtpbighokinew.xyz CNAME .

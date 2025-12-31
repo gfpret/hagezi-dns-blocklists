@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 31 Dec 2025 10:31 UTC
-! Version: 2025.1231.1031.17
+! Last modified: 31 Dec 2025 14:29 UTC
+! Version: 2025.1231.1429.55
 ! Syntax: AdBlock
-! Number of entries: 40482
+! Number of entries: 40478
 !
 ||000-online-casino.com^
 ||0009casino.com^
@@ -16587,7 +16587,6 @@
 ||edm88bets.site^
 ||edmconcretecontractors.com^
 ||edodolan.id^
-||edoprom.com^
 ||edsbet.com^
 ||pid.edu.pl^
 ||eduhok.net^
@@ -25550,7 +25549,6 @@
 ||menangbet-06.com^
 ||menangcasino.net^
 ||menangcasino.org^
-||menangtinggi.website^
 ||menangtoto.vip^
 ||meneercasino.com^
 ||menikmatibola.com^
@@ -32815,7 +32813,6 @@
 ||rtpagendunia55.pics^
 ||rtpagendunia55.quest^
 ||rtpagusbet.icu^
-||rtpakurat-visa288.xyz^
 ||rtpbandit77.xyz^
 ||rtpbighokinew.xyz^
 ||rtpbolaslot88.icu^
@@ -40027,7 +40024,6 @@
 ||yabbycasino225nodepositbonuscodes.icu^
 ||yabbycasinoau.com^
 ||yabtcl.com^
-||yacasino.net^
 ||yaguplay.com^
 ||yajuego.co^
 ||yakabet.com^
