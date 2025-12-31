@@ -5,9 +5,6 @@
 lma.npaw.com
 interceptor.npaw.com
 
-# https://github.com/hagezi/dns-blocklists/issues/8404
-xga-serving-pa.googleapis.com
-
 # https://github.com/hagezi/dns-blocklists/issues/8392#issuecomment-3673432316
 csp.withgoogle.com
 

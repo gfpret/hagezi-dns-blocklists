@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 31 Dec 2025 18:08 UTC
-# Version: 2025.1231.1808.03
+# Last modified: 31 Dec 2025 22:07 UTC
+# Version: 2025.1231.2207.21
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 88138
+# Number of entries: 88141
 #
 0.0.0.0 00055edc1917.com
 0.0.0.0 000cc36be8eb.top
@@ -25944,12 +25944,10 @@
 0.0.0.0 bdo8.cyou
 0.0.0.0 bdo9.love
 0.0.0.0 bdob.click
-0.0.0.0 bdobest.cyou
 0.0.0.0 bdof.help
 0.0.0.0 bdog.click
 0.0.0.0 bdogroup.click
 0.0.0.0 bdoi.help
-0.0.0.0 bdoi.love
 0.0.0.0 bdoj.shop
 0.0.0.0 bdoo.qpon
 0.0.0.0 bdoo2o.cyou
@@ -26230,6 +26228,7 @@
 0.0.0.0 bet365affiliates.com
 0.0.0.0 imstore.bet365affiliates.com
 0.0.0.0 banner.bet365partners.com
+0.0.0.0 betacer.com
 0.0.0.0 betads.xyz
 0.0.0.0 analytics.betaflight.com
 0.0.0.0 betakescodman.cyou
@@ -34694,6 +34693,7 @@
 0.0.0.0 amp.cntxcdm.com
 0.0.0.0 cnvlink.com
 0.0.0.0 cnvtyajtiwiss.space
+0.0.0.0 cnwucnf.top
 0.0.0.0 cnzz.net
 0.0.0.0 c.cnzz.com
 0.0.0.0 ei.cnzz.com
@@ -35954,7 +35954,6 @@
 0.0.0.0 comperialead.pl
 0.0.0.0 www.comperialead.pl
 0.0.0.0 ocpsa.competitivecyclist.com
-0.0.0.0 compgv.top
 0.0.0.0 compiledonatevanity.com
 0.0.0.0 compilework.com
 0.0.0.0 compitte.com
@@ -47356,8 +47355,6 @@
 0.0.0.0 favbet.com
 0.0.0.0 favbet999.com
 0.0.0.0 favelsmali.sbs
-0.0.0.0 favfav.xyz
-0.0.0.0 www.favfav.xyz
 0.0.0.0 pv-collector.prod.favish.com
 0.0.0.0 favoritua.com
 0.0.0.0 creative.favy.cam
@@ -49102,6 +49099,7 @@
 0.0.0.0 garglingably.com
 0.0.0.0 garlicice.store
 0.0.0.0 cc.garlicice.store
+0.0.0.0 garmentsale.top
 0.0.0.0 matomo.garmin.com
 0.0.0.0 garotas.info
 0.0.0.0 kabinedasnovinhas-com.garotas.info
@@ -54190,6 +54188,7 @@
 0.0.0.0 imp.i305175.net
 0.0.0.0 i3j6h7j9cj.com
 0.0.0.0 i45x0w.com
+0.0.0.0 i8h7uteg7fwz4p1w.cfd
 0.0.0.0 gdl.i9dhjx.ru
 0.0.0.0 gtg.i9sports.com
 0.0.0.0 ia-dmp.com
@@ -56610,6 +56609,7 @@
 0.0.0.0 stats.itc.ua
 0.0.0.0 itchinglikely.com
 0.0.0.0 itcjggcc.com
+0.0.0.0 itemsdetails.com
 0.0.0.0 api.iterable.com
 0.0.0.0 js.iterable.com
 0.0.0.0 platform.iteratehq.com
@@ -57844,7 +57844,6 @@
 0.0.0.0 creative.kbnmnl.com
 0.0.0.0 go.kbnmnl.com
 0.0.0.0 matomo.kbs.de
-0.0.0.0 kcbmcuz.top
 0.0.0.0 e459.kcci.com
 0.0.0.0 c.e459.kcci.com
 0.0.0.0 kcfdom.com
@@ -58242,6 +58241,7 @@
 0.0.0.0 kotchouwhauzaux.com
 0.0.0.0 koun-wa.com
 0.0.0.0 koussostng.click
+0.0.0.0 kozerex.com
 0.0.0.0 kpbmqxucd.com
 0.0.0.0 smetrics.kpmg.com
 0.0.0.0 kptnascbjdby.com
@@ -61950,6 +61950,7 @@
 0.0.0.0 mjjtobmrqyolqqbqukpl.com
 0.0.0.0 www.mjjtobmrqyolqqbqukpl.com
 0.0.0.0 mjriazemzybdg.online
+0.0.0.0 mjupoierfw8nnbq.rest
 0.0.0.0 trace.mjyx.com
 0.0.0.0 mkjigsaw.com
 0.0.0.0 mktoresp.com
@@ -62993,6 +62994,7 @@
 0.0.0.0 ss.moxiplayer.com
 0.0.0.0 moyu88.xyz
 0.0.0.0 mozaka.com
+0.0.0.0 mozerex.com
 0.0.0.0 ads.prod.webservices.mozgcp.net
 0.0.0.0 prod.ads.prod.webservices.mozgcp.net
 0.0.0.0 mc.prod.ads.prod.webservices.mozgcp.net
@@ -63603,7 +63605,6 @@
 0.0.0.0 mythosupflow.com
 0.0.0.0 dm.mythosupflow.com
 0.0.0.0 mytim.bond
-0.0.0.0 mytim.fun
 0.0.0.0 mytop-in.net
 0.0.0.0 mytopf.com
 0.0.0.0 mytopfiles.com
@@ -66990,12 +66991,9 @@
 0.0.0.0 otoadom.com
 0.0.0.0 otoi3ug83g3h.cfd
 0.0.0.0 otomachi.jp
-0.0.0.0 otoragar.top
 0.0.0.0 otorcgar.top
 0.0.0.0 otorfgar.top
 0.0.0.0 otorogar.top
-0.0.0.0 otorrgar.top
-0.0.0.0 otorwgar.top
 0.0.0.0 otoshiana.com
 0.0.0.0 otoyueuprumok.icu
 0.0.0.0 ottadvisors.com
@@ -73686,6 +73684,7 @@
 0.0.0.0 salanoajalio.xyz
 0.0.0.0 www.salanoajalio.xyz
 0.0.0.0 salbraddrepilly.com
+0.0.0.0 salebooks.shop
 0.0.0.0 salecycle.com
 0.0.0.0 i.salecycle.com
 0.0.0.0 s.salecycle.com
@@ -73862,6 +73861,7 @@
 0.0.0.0 gtm.saostar.vn
 0.0.0.0 plausible.saostar.vn
 0.0.0.0 tracking.saostar.vn
+0.0.0.0 saovax.com
 0.0.0.0 smetrics.sap.com
 0.0.0.0 sape.ru
 0.0.0.0 cdn-rtb.sape.ru
@@ -74929,7 +74929,6 @@
 0.0.0.0 seu-rss.cc
 0.0.0.0 seu-rsszs.cc
 0.0.0.0 seuhtkskudvkf.site
-0.0.0.0 seur.agency
 0.0.0.0 seures-inde.cfd
 0.0.0.0 seures-inde.cyou
 0.0.0.0 seuresceiskdzonline.icu
@@ -75152,6 +75151,7 @@
 0.0.0.0 shellnescarlett.com
 0.0.0.0 trk.shelly.cloud
 0.0.0.0 creative.shemale.show
+0.0.0.0 shemrec.cc
 0.0.0.0 shenajou.com
 0.0.0.0 shengfleming.com
 0.0.0.0 shenshiads.com
@@ -79248,6 +79248,7 @@
 0.0.0.0 teenhost.net
 0.0.0.0 analytics.teepublic.com
 0.0.0.0 teethundercoverhowever.com
+0.0.0.0 tefalkitchendeals.club
 0.0.0.0 tefs.com
 0.0.0.0 teggcraws.com
 0.0.0.0 tegmenttina.cfd
@@ -82012,6 +82013,7 @@
 0.0.0.0 ads.twitch.tv
 0.0.0.0 edge.ads.twitch.tv
 0.0.0.0 analytics.m7g.twitch.tv
+0.0.0.0 twitchdrop.sbs
 0.0.0.0 twitchgift.sbs
 0.0.0.0 twitcount.com
 0.0.0.0 counts.twitcount.com
@@ -82868,6 +82870,7 @@
 0.0.0.0 analytics.urbanint.net
 0.0.0.0 urbanlaurel.com
 0.0.0.0 ssgtm.urbanstems.com
+0.0.0.0 urbantrendpulse.com
 0.0.0.0 wlog.urcmx.com
 0.0.0.0 urdatingassistant.com
 0.0.0.0 collect.ureca-lab.com
@@ -83247,6 +83250,7 @@
 0.0.0.0 analytics.variantnow.com
 0.0.0.0 varioth.com
 0.0.0.0 variousformatscontent.com
+0.0.0.0 varkelmbqlmyj.top
 0.0.0.0 dmztm.varley.com
 0.0.0.0 vartoken.com
 0.0.0.0 vasebasin.info
@@ -87442,7 +87446,6 @@
 0.0.0.0 yucjherxyqe.com
 0.0.0.0 yudvl.org
 0.0.0.0 yugvawefin.cloud
-0.0.0.0 yuhuan.cc
 0.0.0.0 yuiiy.com
 0.0.0.0 yukclick.me
 0.0.0.0 yukishigure.com

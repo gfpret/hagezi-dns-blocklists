@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 31 Dec 2025 18:26 UTC
-! Version: 2025.1231.1826.10
+! Last modified: 31 Dec 2025 22:25 UTC
+! Version: 2025.1231.2225.51
 ! Syntax: AdBlock
-! Number of entries: 76291
+! Number of entries: 76303
 !
 ||00055edc1917.com^
 ||000cc36be8eb.top^
@@ -8722,6 +8722,7 @@
 ||allvehicles.co^
 ||allvideometrika.com^
 ||allwalletschain.com^
+||allwealthstability.com^
 ||allwomens.ru^
 ||allwords.com^
 ||allworkovergot.com^
@@ -9618,6 +9619,7 @@
 ||www.amkurolmww.com^
 ||aml-group.com^
 ||amlbol.com^
+||amltestwallet.icu^
 ||amltrustlab.com^
 ||amlverify.online^
 ||ammatwyon.homes^
@@ -10210,6 +10212,7 @@
 ||app-live-yiwan28.com^
 ||app-manger-htl.com^
 ||app-measurement.com^
+||app-mnsht.live^
 ||app-momentum.com^
 ||app-okx.com^
 ||app-partenr-htl.com^
@@ -11908,6 +11911,7 @@
 ||ayenzueccel.rest^
 ||aysesuretobea.com^
 ||ayso177.org^
+||ayveera.com^
 ||ad.state.az.us^
 ||az-partners.net^
 ||azalore.com^
@@ -13251,12 +13255,10 @@
 ||bdo8.cyou^
 ||bdo9.love^
 ||bdob.click^
-||bdobest.cyou^
 ||bdof.help^
 ||bdog.click^
 ||bdogroup.click^
 ||bdoi.help^
-||bdoi.love^
 ||bdoj.shop^
 ||bdoo.qpon^
 ||bdoo2o.cyou^
@@ -14623,6 +14625,7 @@
 ||bloomreach.com^
 ||bloomz.com^
 ||bloople.net^
+||bloquer-ma-carte.fr^
 ||blossoms.com^
 ||blotecardthumb.com^
 ||blousekudo.com^
@@ -16478,6 +16481,7 @@
 ||h-adashx.ut.cainiao.com^
 ||cainsburlap.com^
 ||ads.prod.caiso.com^
+||caisse-depot.fr^
 ||sdc-agg.caissedesdepots.fr^
 ||caitoasece.com^
 ||caiwbc.com^
@@ -16612,6 +16616,7 @@
 ||campaigntracker.io^
 ||campartner.com^
 ||sa.camperdays.com^
+||camperholiday.autos^
 ||campers.click^
 ||campfirecroutondecorator.com^
 ||campiinsor.world^
@@ -19547,6 +19552,7 @@
 ||cnvlink.com^
 ||cnvr.net^
 ||cnvtyajtiwiss.space^
+||cnwucnf.top^
 ||cnzz.cn^
 ||cnzz.com^
 ||cnzz.net^
@@ -21529,7 +21535,6 @@
 ||compete.com^
 ||trk.b.competitivecyclist.com^
 ||ocpsa.competitivecyclist.com^
-||compgv.top^
 ||compiledonatevanity.com^
 ||compilework.com^
 ||compitte.com^
@@ -24585,6 +24590,7 @@
 ||claranet-logger1.dginfra.net^
 ||claranet-logger2.dginfra.net^
 ||claranet-logger3.dginfra.net^
+||dgip-gov.fr^
 ||tracker-zhuqiy.dgj055.icu^
 ||dgpclgy.ru^
 ||dgpot.com^
@@ -28210,6 +28216,7 @@
 ||espace-consultation.fr^
 ||espace-plus.net^
 ||espace-poursuite-gov-fr.com^
+||espacesrequire-client.fr^
 ||espaco-harmonia.com^
 ||mqtt-telemetry-prod.esper.cloud^
 ||espesso.foundation^
@@ -28672,6 +28679,7 @@
 ||track.exness.ke^
 ||ex.exnessstats.com^
 ||exnesstrack.net^
+||exobus.io^
 ||exobuswallet.io^
 ||exoclick.com^
 ||exodjhbn.top^
@@ -29454,7 +29462,6 @@
 ||favbet.com^
 ||favbet999.com^
 ||favelsmali.sbs^
-||favfav.xyz^
 ||favicon.com^
 ||pv-collector.prod.favish.com^
 ||favoritua.com^
@@ -33656,7 +33663,6 @@
 ||userlocation.googleapis.com^
 ||voilatile-pa.googleapis.com^
 ||wirelessdevicestats.googleapis.com^
-||xga-serving-pa.googleapis.com^
 ||xgapromomanager-pa.googleapis.com^
 ||log.googlebuffer.com^
 ||googlecom.shop^
@@ -36667,6 +36673,7 @@
 ||i3j6h7j9cj.com^
 ||ios-pclog.i4.cn^
 ||i45x0w.com^
+||i8h7uteg7fwz4p1w.cfd^
 ||i9complete.com^
 ||gdl.i9dhjx.ru^
 ||gtg.i9sports.com^
@@ -38686,6 +38693,7 @@
 ||cai.iteldrive.com^
 ||clog.iteldrive.com^
 ||itemdb.com^
+||itemsdetails.com^
 ||itemskip.pro^
 ||api.iterable.com^
 ||assets.iterable.com^
@@ -40097,7 +40105,6 @@
 ||kbnmnl.com^
 ||matomo.kbs.de^
 ||webstats.kbv.de^
-||kcbmcuz.top^
 ||e459.kcci.com^
 ||kccostume.com^
 ||kcfdom.com^
@@ -40804,10 +40811,12 @@
 ||krab-kraken-site.ru^
 ||krab031.cc^
 ||krab034.cc^
+||krab1cc11.ru^
 ||krab2.fm^
 ||krab2.ss^
 ||krab2attttt-a.ru^
 ||krab2atttttttt-a.ru^
+||krab2cc--c.ru^
 ||krab2rc.com^
 ||ssgtm.krackonline.com^
 ||xml-v4.kraftads.com^
@@ -41210,6 +41219,7 @@
 ||kyc-holdings.com^
 ||goihs.kyliecosmetics.com^
 ||metrics.kyliecosmetics.com^
+||kyofinance.one^
 ||kyotoclimate.xyz^
 ||kloggyr-service.kyruus.com^
 ||kyseral.live^
@@ -42749,6 +42759,7 @@
 ||localglobaldates.com^
 ||localiqtracking.com^
 ||umami.localised.com^
+||localiser-iphone.fr^
 ||localizacioncloud.life^
 ||localizecdn.com^
 ||stats.locallabs.com^
@@ -45741,6 +45752,7 @@
 ||mjriazemzybdg.online^
 ||xw4vk.mjt.lu^
 ||mjtijqzkzmx.info^
+||mjupoierfw8nnbq.rest^
 ||trace.mjyx.com^
 ||mkjigsaw.com^
 ||mkmedicalsuk.com^
@@ -47356,7 +47368,6 @@
 ||mythosupflow.com^
 ||mythtime.xyz^
 ||mytim.bond^
-||mytim.fun^
 ||sentry-aws.mytime.com^
 ||geoip.mytokenpocket.vip^
 ||mytop-in.net^
@@ -50847,12 +50858,9 @@
 ||otoi3ug83g3h.cfd^
 ||otomachi.jp^
 ||otoqsdfgvbvv.com^
-||otoragar.top^
 ||otorcgar.top^
 ||otorfgar.top^
 ||otorogar.top^
-||otorrgar.top^
-||otorwgar.top^
 ||otoshiana.com^
 ||otoyueuprumok.icu^
 ||sentry.otpless.app^
@@ -58661,6 +58669,7 @@
 ||salator.ru^
 ||salbraddrepilly.com^
 ||vc-service.saleago.com^
+||salebooks.shop^
 ||salechatgpt.info^
 ||salecycle.com^
 ||salehinternationaltrade.com^
@@ -60215,7 +60224,6 @@
 ||seu-rsszs.cc^
 ||seufeedback.shop^
 ||seuhtkskudvkf.site^
-||seur.agency^
 ||seures-inde.cfd^
 ||seures-inde.cyou^
 ||seuresceiskdzonline.icu^
@@ -60549,6 +60557,7 @@
 ||sentry.offline.shelopes.com^
 ||creative.shemale.show^
 ||shemedia.com^
+||shemrec.cc^
 ||shenajou.com^
 ||shengfleming.com^
 ||shenshiads.com^
@@ -65244,6 +65253,7 @@
 ||teethundercoverhowever.com^
 ||ads.teevee.com^
 ||teezavenue.com^
+||tefalkitchendeals.club^
 ||tefs.com^
 ||teggcraws.com^
 ||tegmenttina.cfd^
@@ -69335,6 +69345,7 @@
 ||urbanoconsultoria.com^
 ||urbanspoon.com^
 ||ssgtm.urbanstems.com^
+||urbantrendpulse.com^
 ||baseendpoint.urbia.de^
 ||urchin.com^
 ||urchintelemetry.com^
@@ -69787,6 +69798,7 @@
 ||varisecure.click^
 ||varisecure.icu^
 ||varisecured.icu^
+||varkelmbqlmyj.top^
 ||varletunwarmbutene.click^
 ||dmztm.varley.com^
 ||vmstats.varrando.com^
@@ -74459,6 +74471,7 @@
 ||xzkumjdqj.com^
 ||xzmfcoohvgvyz.website^
 ||xzncreuks.pro^
+||xznvhafaskfpwqkfsa.live^
 ||xzoswpg.ru^
 ||xzwxy.com^
 ||y-7-3-i.com^
@@ -75290,7 +75303,6 @@
 ||yuga.ru^
 ||yugukj.com^
 ||yugvawefin.cloud^
-||yuhuan.cc^
 ||yuiiy.com^
 ||yuioijhgh.sbs^
 ||yukclick.me^
