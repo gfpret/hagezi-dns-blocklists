@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Dec 2025 09:30 UTC
-# Version: 2025.1230.0930.41
+# Last modified: 31 Dec 2025 09:31 UTC
+# Version: 2025.1231.0931.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14118
+# Number of entries: 14119
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -95,6 +95,7 @@ local=/abrahamr.com/
 local=/abrisphere.com/
 local=/abrorabatt.de/
 local=/absolutelk.com/
+local=/absolutelyn.com/
 local=/absoluteo.com/
 local=/absorbpath.com/
 local=/absorrption.com/
@@ -2779,6 +2780,7 @@ local=/crxjik.shop/
 local=/cryotoxtrade.com/
 local=/cryptex-online.de/
 local=/cryptex-vip.com/
+local=/tax.crypto.com/
 local=/crypto-bulot.com/
 local=/crypto-institute.com/
 local=/crypto-invest-ai.de/
@@ -10241,7 +10243,6 @@ local=/protovfurniture.com/
 local=/proupwholesale.com/
 local=/provenxperts.com/
 local=/proveri.de/
-local=/providedes.com/
 local=/provise24.com/
 local=/prowerkparts.com/
 local=/proximitye.com/
