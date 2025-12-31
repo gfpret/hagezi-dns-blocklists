@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 31 Dec 2025 02:06 UTC
-# Version: 2025.1231.0206.59
+# Last modified: 31 Dec 2025 06:06 UTC
+# Version: 2025.1231.0606.54
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 86942
+# Number of entries: 86943
 #
 00055edc1917.com
 000free.us
@@ -11295,6 +11295,7 @@ ainb12290zh.com
 ainb12291zh.com
 ainb12300zh.com
 ainb12301zh.com
+ainb12310zh.com
 ainokotoba1515.com
 ainouzaudre.net
 ainsyndication.com
@@ -34633,6 +34634,7 @@ cntxcdm.com
 amp.cntxcdm.com
 cnvlink.com
 cnvtyajtiwiss.space
+cnwucnf.top
 cnzz.net
 c.cnzz.com
 ei.cnzz.com
@@ -37325,6 +37327,7 @@ metrics.cs.money
 cs-finals.com
 cs2beneluxbattle.com
 cs2kit.com
+cs2twitch.live
 www.csaladititkok.com
 analytics.csasecurityapp.com
 cscsbworjosnk.space
@@ -38325,6 +38328,7 @@ deenybaniva.click
 deep.bi
 api.deep.bi
 scoring.deep.bi
+deep-crash.com
 deep-zoom.online
 telemetry.deeparc.net
 deepcairnharbor.world
@@ -44567,6 +44571,7 @@ easysexe.com
 detectca.easysol.net
 easytomessage.com
 sgtm.easytoys.nl
+eatcells.com
 securetracking.eaton.com
 eaurlhsblcutfaj.com
 eavailandpro.com
@@ -45409,7 +45414,6 @@ cdn.empower.net
 empowerlocal.co
 emptiprutze.world
 broker.emqx.io
-emrccoutaa.top
 emsservice.de
 native.emsservice.de
 static.emsservice.de
@@ -47476,7 +47480,6 @@ forgetfulpromptlyappointment.com
 forgetfulsnail.com
 www.forkstrictly.com
 forlumineoner.com
-formal.cfd
 formalhood.com
 formalyzer.com
 formanentsyshru.org
@@ -55868,7 +55871,6 @@ adapi.izuiyou.com
 adstat.izuiyou.com
 j0ss4np1c5.site
 j0t4sv.lol
-j250e.xyz
 i.mxplayer.j2inter.com
 j4l9olpzcp86khvil.cfd
 j4qcgwiv2c7lo55pj1uccf.rest
@@ -58451,12 +58453,6 @@ linkedin-invoicesaccount.com
 linkedin-tracker.com
 linkedverifycase104839.com
 linkedverifycase18910.com
-linkedverifycase298560.site
-linkedverifycase392715.site
-linkedverifycase475829.site
-linkedverifycase581024.site
-linkedverifycase760431.site
-linkedverifycase843927.site
 linker.ba
 linker.bg
 linker.hr
@@ -63130,7 +63126,6 @@ cdn.neon.click
 neon-green-apple.com
 analytics.neoncleaner.com
 neondrift.cfd
-neonflaretech.cfd
 neonsbegstercollide.cfd
 neored.ai
 estadisticas.neored.com
@@ -66884,6 +66879,12 @@ pccleaner.cn
 pcdwm.com
 utiq.pcgameshardware.de
 piwik.pcgamingwiki.com
+pchelpsoft.com
+cloud.pchelpsoft.com
+inapp.pchelpsoft.com
+offers.pchelpsoft.com
+store.pchelpsoft.com
+www.pchelpsoft.com
 pcicifogr.com
 sp.pcid.ca
 pcipbsmdiqsx.com
@@ -67030,6 +67031,7 @@ perfectchoice1.com
 perfectionholic.com
 newfeatureview.perfectionholic.com
 perfectmarket.com
+perfectstickyrenewal.com
 log.perfecttitspics.com
 clientlog.perfectworldgames.com
 dlog.perfectworldgames.com
@@ -67614,6 +67616,7 @@ cpm.pixelpluses.com
 rtb-eu-v4.pixelpluses.com
 pixelpop.co
 app.pixelpop.co
+pixelquestify.cfd
 pixelroyal.fun
 pixeltrey.com
 pixelvoyage.cfd
@@ -69955,6 +69958,7 @@ quietknowledge.com
 quietleaffield.com
 quietyellowday.com
 pixel.quikly.com
+quilescliona.com
 smetrics.quill.com
 collector.quillbot.com
 gtm.quillbot.com
@@ -70062,7 +70066,6 @@ log.r2b2.io
 ads-us.r2drtb.com
 r30address.com
 r30deai.com
-r33d.xyz
 cdn3.r34comix.com
 r3f.technology
 vf.r3f.technology
@@ -71102,6 +71105,7 @@ revupads.com
 knfkd.revzilla.com
 rewalconiu.cyou
 reward-recallnetwork.xyz
+reward-style.com
 rewardany.com
 www.rewardany.com
 rewardsaffiliates.com
@@ -73147,6 +73151,8 @@ searchmagnified.com
 9145.searchmagnified.com
 searchmarketing.com
 tracking.searchmarketing.com
+searchmarquis.com
+www.searchmarquis.com
 searchmaven.co
 searchnowexpert.com
 searchpoweronline.com
@@ -73769,8 +73775,6 @@ service-instagram.xyz
 service-office-julia.xyz
 service-traefik-github.xyz
 service-twitter-template.xyz
-services-opposition.fr
-services-oppositions.fr
 swrm.serving-ad.com
 serving-sys.com
 servingcdn.net
@@ -74016,6 +74020,7 @@ shelljacket.us
 shellnescarlett.com
 trk.shelly.cloud
 creative.shemale.show
+shemrec.cc
 shenajou.com
 shengfleming.com
 shenshiads.com
@@ -75268,7 +75273,6 @@ smashquartz.com
 smatr.net
 smbcard-jp.com
 smcad.net
-smcad.org
 smconene.pro
 smct.co
 ep.smct.co
@@ -76842,7 +76846,6 @@ stats-bq.stylight.net
 stylish-airport.com
 stylish-knife.com
 stylishbuds.com
-styluse.cfd
 events.stylux.io
 traffic.styria.hr
 client.su89-cdn.net
@@ -78890,7 +78893,6 @@ tiktok-upskilling.com
 tiktok-verifiedbadge.com
 tiktok-voice-generator.com
 tiktok-workpathfinder.com
-tiktok1.work
 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 tiktokpangle.us
 api16-access-ttp.tiktokpangle.us
@@ -80803,7 +80805,6 @@ dt.twrmnd.com
 icon.dt.twrmnd.com
 twyn.com
 et.twyn.com
-tx-hoverboard.com
 livetech.shopee.co.id.txlivecdn.com
 livetech.shopee.ph.txlivecdn.com
 livetech.shopee.co.th.txlivecdn.com
@@ -82362,6 +82363,8 @@ viagogo.se
 wt.viagogo.net
 viagrasamplesfrompfizer.com
 viagrawinner.com
+vialotadom.com
+ak.vialotadom.com
 vianboaegiaed.website
 viantinc.com
 cdn.viantinc.com
@@ -83212,7 +83215,6 @@ prod.html5-ads.vk-apps.com
 stats.vk-portal.net
 vkcdnservice.com
 deliver.vkcdnservice.com
-vkezgxtq.shop
 vkonrakte.com
 vkulake.com
 vkupon.ru
@@ -83478,6 +83480,7 @@ matomo.vtconline.vn
 activity-flow.vtex.com
 sp.vtex.com
 telemetry.vtex.com
+vtook3j0l.com
 vtracy.de
 red.vtracy.de
 vtrtl.de
@@ -83620,7 +83623,6 @@ w13mk6.ru
 w3counter.com
 www.w3counter.com
 analytics.w3goodies.com
-w45p.xyz
 w4h5ae.ru
 w4jj99ggt.xyz
 w55c.net
@@ -86239,7 +86241,6 @@ yucatecyogins.rest
 yuckyducks.xyz
 yudvl.org
 yugvawefin.cloud
-yuhuan.cc
 yuiiy.com
 yukclick.me
 yukishigure.com

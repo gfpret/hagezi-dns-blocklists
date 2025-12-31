@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 31 Dec 2025 02:11 UTC
-! Version: 2025.1231.0211.45
+! Last modified: 31 Dec 2025 06:12 UTC
+! Version: 2025.1231.0612.22
 ! Syntax: AdBlock
-! Number of entries: 49360
+! Number of entries: 49348
 !
 ||00055edc1917.com^
 ||000free.us^
@@ -6111,6 +6111,7 @@
 ||ainb12291zh.com^
 ||ainb12300zh.com^
 ||ainb12301zh.com^
+||ainb12310zh.com^
 ||ainokotoba1515.com^
 ||ainouzaudre.net^
 ||ainsyndication.com^
@@ -13069,6 +13070,7 @@
 ||cntxcdm.com^
 ||cnvlink.com^
 ||cnvtyajtiwiss.space^
+||cnwucnf.top^
 ||cnzz.cn^
 ||cnzz.net^
 ||c.cnzz.com^
@@ -14909,6 +14911,7 @@
 ||cs-finals.com^
 ||cs2beneluxbattle.com^
 ||cs2kit.com^
+||cs2twitch.live^
 ||www.csaladititkok.com^
 ||analytics.csasecurityapp.com^
 ||cscsbworjosnk.space^
@@ -18116,7 +18119,6 @@
 ||empowerlocal.co^
 ||emptiprutze.world^
 ||broker.emqx.io^
-||emrccoutaa.top^
 ||emsecure.net^
 ||emsservice.de^
 ||emtag.net^
@@ -19905,7 +19907,6 @@
 ||forgetfulsnail.com^
 ||www.forkstrictly.com^
 ||forlumineoner.com^
-||formal.cfd^
 ||formalhood.com^
 ||formalyzer.com^
 ||formanentsyshru.org^
@@ -24779,7 +24780,6 @@
 ||j-live.tv^
 ||j0ss4np1c5.site^
 ||j0t4sv.lol^
-||j250e.xyz^
 ||i.mxplayer.j2inter.com^
 ||j4l9olpzcp86khvil.cfd^
 ||j4qcgwiv2c7lo55pj1uccf.rest^
@@ -26823,12 +26823,6 @@
 ||linkedin-tracker.com^
 ||linkedverifycase104839.com^
 ||linkedverifycase18910.com^
-||linkedverifycase298560.site^
-||linkedverifycase392715.site^
-||linkedverifycase475829.site^
-||linkedverifycase581024.site^
-||linkedverifycase760431.site^
-||linkedverifycase843927.site^
 ||linker.ba^
 ||linker.bg^
 ||linker.hr^
@@ -30299,7 +30293,6 @@
 ||neon-green-apple.com^
 ||analytics.neoncleaner.com^
 ||neondrift.cfd^
-||neonflaretech.cfd^
 ||neonsbegstercollide.cfd^
 ||neored.ai^
 ||estadisticas.neored.com^
@@ -34830,6 +34823,7 @@
 ||log.dev.pixelmotiondemo.com^
 ||pixelpluses.com^
 ||pixelpop.co^
+||pixelquestify.cfd^
 ||pixelroyal.fun^
 ||pixels.ai^
 ||pixeltracker.co^
@@ -36988,6 +36982,7 @@
 ||quietleaffield.com^
 ||quietyellowday.com^
 ||pixel.quikly.com^
+||quilescliona.com^
 ||smetrics.quill.com^
 ||collector.quillbot.com^
 ||gtm.quillbot.com^
@@ -37087,7 +37082,6 @@
 ||ads-us.r2drtb.com^
 ||r30address.com^
 ||r30deai.com^
-||r33d.xyz^
 ||cdn3.r34comix.com^
 ||r3f.technology^
 ||r4uws5iu3g.com^
@@ -37858,6 +37852,7 @@
 ||knfkd.revzilla.com^
 ||rewalconiu.cyou^
 ||reward-recallnetwork.xyz^
+||reward-style.com^
 ||rewardany.com^
 ||rewardsaffiliates.com^
 ||rewardsgiantca.com^
@@ -39553,8 +39548,6 @@
 ||service-traefik-github.xyz^
 ||service-twitter-template.xyz^
 ||servicemagic.com^
-||services-opposition.fr^
-||services-oppositions.fr^
 ||swrm.serving-ad.com^
 ||serving-sys.com^
 ||bs.serving-sys.ru^
@@ -39762,6 +39755,7 @@
 ||shellnescarlett.com^
 ||trk.shelly.cloud^
 ||creative.shemale.show^
+||shemrec.cc^
 ||shenajou.com^
 ||shengfleming.com^
 ||shenshiads.com^
@@ -40511,7 +40505,6 @@
 ||smbcard-jp.com^
 ||smbtnupsh.com^
 ||smcad.net^
-||smcad.org^
 ||smconene.pro^
 ||smct.co^
 ||smemails.smcusa.com^
@@ -41749,7 +41742,6 @@
 ||stylish-knife.com^
 ||stylishbuds.com^
 ||stylnowy.pl^
-||styluse.cfd^
 ||events.stylux.io^
 ||traffic.styria.hr^
 ||styria-digital.com^
@@ -43173,7 +43165,6 @@
 ||tiktok-verifiedbadge.com^
 ||tiktok-voice-generator.com^
 ||tiktok-workpathfinder.com^
-||tiktok1.work^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
 ||tiktokpangle.us^
 ||tiktokpangle-b.us^
@@ -44427,7 +44418,6 @@
 ||twrank.com^
 ||twrmnd.com^
 ||twyn.com^
-||tx-hoverboard.com^
 ||livetech.shopee.co.id.txlivecdn.com^
 ||livetech.shopee.ph.txlivecdn.com^
 ||livetech.shopee.co.th.txlivecdn.com^
@@ -46097,7 +46087,6 @@
 ||prod.html5-ads.vk-apps.com^
 ||stats.vk-portal.net^
 ||vkcdnservice.com^
-||vkezgxtq.shop^
 ||vkonrakte.com^
 ||vktarget.ru^
 ||vkulake.com^
@@ -46312,6 +46301,7 @@
 ||sp.vtex.com^
 ||telemetry.vtex.com^
 ||vtmarkets.com^
+||vtook3j0l.com^
 ||vtracy.de^
 ||vtrtl.de^
 ||vtwenty.com^
@@ -46395,7 +46385,6 @@
 ||w13mk6.ru^
 ||w3counter.com^
 ||analytics.w3goodies.com^
-||w45p.xyz^
 ||w4h5ae.ru^
 ||w4jj99ggt.xyz^
 ||w55c.net^
@@ -48718,7 +48707,6 @@
 ||yudvl.org^
 ||yuga.ru^
 ||yugvawefin.cloud^
-||yuhuan.cc^
 ||yuiiy.com^
 ||yukclick.me^
 ||yukishigure.com^

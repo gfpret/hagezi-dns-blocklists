@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767148440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767162900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 31 Dec 2025 02:34 UTC
-; Version: 2025.1231.0234.41
+; Last modified: 31 Dec 2025 06:35 UTC
+; Version: 2025.1231.0635.12
 ; Syntax: RPZ
-; Number of entries: 12568
+; Number of entries: 12562
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -6279,8 +6279,6 @@ bizfast.info CNAME .
 *.bizfast.info CNAME .
 brazilproxy.info CNAME .
 *.brazilproxy.info CNAME .
-canliteisawsome.bsfa.info CNAME .
-*.canliteisawsome.bsfa.info CNAME .
 edu.bsfa.info CNAME .
 *.edu.bsfa.info CNAME .
 travel.bsfa.info CNAME .
@@ -8311,8 +8309,6 @@ chemistrytheoandalgebra.justlearning.net CNAME .
 *.chemistrytheoandalgebra.justlearning.net CNAME .
 coolmanbartx.justlearning.net CNAME .
 *.coolmanbartx.justlearning.net CNAME .
-fcps.justlearning.net CNAME .
-*.fcps.justlearning.net CNAME .
 nxmevip.justlearning.net CNAME .
 *.nxmevip.justlearning.net CNAME .
 saugatproxm.justlearning.net CNAME .
@@ -9405,8 +9401,6 @@ goga7777777.bissnes.org CNAME .
 *.goga7777777.bissnes.org CNAME .
 essay.gov.blacknapkins.org CNAME .
 *.essay.gov.blacknapkins.org CNAME .
-withcanlite.bling.org CNAME .
-*.withcanlite.bling.org CNAME .
 dns.blokada.org CNAME .
 *.dns.blokada.org CNAME .
 bmetrics.org CNAME .

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 31 Dec 2025 02:34 UTC
-# Version: 2025.1231.0234.41
+# Last modified: 31 Dec 2025 06:35 UTC
+# Version: 2025.1231.0635.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6284
+# Number of entries: 6281
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -676,7 +676,6 @@ local=/dot-sg.blahdns.com/
 local=/calm-tree-976.blanktext.net/
 local=/dns.blaumer.dev/
 local=/blewpass.com/
-local=/withcanlite.bling.org/
 local=/us1.blissdns.net/
 local=/doh.blitarian.com/
 local=/blocka.net/
@@ -766,7 +765,6 @@ local=/81xyz.brudnowski.eu/
 local=/sabine.bruno2000.link/
 local=/help.brynlewis.com/
 local=/adguard.bse4792.site/
-local=/canliteisawsome.bsfa.info/
 local=/edu.bsfa.info/
 local=/travel.bsfa.info/
 local=/doh.bt.com/
@@ -3073,7 +3071,6 @@ local=/ad.justincounts.com/
 local=/dns.justinnetworkingsolutions.com/
 local=/chemistrytheoandalgebra.justlearning.net/
 local=/coolmanbartx.justlearning.net/
-local=/fcps.justlearning.net/
 local=/nxmevip.justlearning.net/
 local=/saugatproxm.justlearning.net/
 local=/solgorknh.justlearning.net/

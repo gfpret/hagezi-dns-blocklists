@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 31 Dec 2025 02:06 UTC
-# Version: 2025.1231.0206.59
+# Last modified: 31 Dec 2025 06:06 UTC
+# Version: 2025.1231.0606.54
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 86942
+# Number of entries: 86943
 #
 0.0.0.0 00055edc1917.com
 0.0.0.0 000free.us
@@ -11295,6 +11295,7 @@
 0.0.0.0 ainb12291zh.com
 0.0.0.0 ainb12300zh.com
 0.0.0.0 ainb12301zh.com
+0.0.0.0 ainb12310zh.com
 0.0.0.0 ainokotoba1515.com
 0.0.0.0 ainouzaudre.net
 0.0.0.0 ainsyndication.com
@@ -34633,6 +34634,7 @@
 0.0.0.0 amp.cntxcdm.com
 0.0.0.0 cnvlink.com
 0.0.0.0 cnvtyajtiwiss.space
+0.0.0.0 cnwucnf.top
 0.0.0.0 cnzz.net
 0.0.0.0 c.cnzz.com
 0.0.0.0 ei.cnzz.com
@@ -37325,6 +37327,7 @@
 0.0.0.0 cs-finals.com
 0.0.0.0 cs2beneluxbattle.com
 0.0.0.0 cs2kit.com
+0.0.0.0 cs2twitch.live
 0.0.0.0 www.csaladititkok.com
 0.0.0.0 analytics.csasecurityapp.com
 0.0.0.0 cscsbworjosnk.space
@@ -38325,6 +38328,7 @@
 0.0.0.0 deep.bi
 0.0.0.0 api.deep.bi
 0.0.0.0 scoring.deep.bi
+0.0.0.0 deep-crash.com
 0.0.0.0 deep-zoom.online
 0.0.0.0 telemetry.deeparc.net
 0.0.0.0 deepcairnharbor.world
@@ -44567,6 +44571,7 @@
 0.0.0.0 detectca.easysol.net
 0.0.0.0 easytomessage.com
 0.0.0.0 sgtm.easytoys.nl
+0.0.0.0 eatcells.com
 0.0.0.0 securetracking.eaton.com
 0.0.0.0 eaurlhsblcutfaj.com
 0.0.0.0 eavailandpro.com
@@ -45409,7 +45414,6 @@
 0.0.0.0 empowerlocal.co
 0.0.0.0 emptiprutze.world
 0.0.0.0 broker.emqx.io
-0.0.0.0 emrccoutaa.top
 0.0.0.0 emsservice.de
 0.0.0.0 native.emsservice.de
 0.0.0.0 static.emsservice.de
@@ -47476,7 +47480,6 @@
 0.0.0.0 forgetfulsnail.com
 0.0.0.0 www.forkstrictly.com
 0.0.0.0 forlumineoner.com
-0.0.0.0 formal.cfd
 0.0.0.0 formalhood.com
 0.0.0.0 formalyzer.com
 0.0.0.0 formanentsyshru.org
@@ -55868,7 +55871,6 @@
 0.0.0.0 adstat.izuiyou.com
 0.0.0.0 j0ss4np1c5.site
 0.0.0.0 j0t4sv.lol
-0.0.0.0 j250e.xyz
 0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 j4l9olpzcp86khvil.cfd
 0.0.0.0 j4qcgwiv2c7lo55pj1uccf.rest
@@ -58451,12 +58453,6 @@
 0.0.0.0 linkedin-tracker.com
 0.0.0.0 linkedverifycase104839.com
 0.0.0.0 linkedverifycase18910.com
-0.0.0.0 linkedverifycase298560.site
-0.0.0.0 linkedverifycase392715.site
-0.0.0.0 linkedverifycase475829.site
-0.0.0.0 linkedverifycase581024.site
-0.0.0.0 linkedverifycase760431.site
-0.0.0.0 linkedverifycase843927.site
 0.0.0.0 linker.ba
 0.0.0.0 linker.bg
 0.0.0.0 linker.hr
@@ -63130,7 +63126,6 @@
 0.0.0.0 neon-green-apple.com
 0.0.0.0 analytics.neoncleaner.com
 0.0.0.0 neondrift.cfd
-0.0.0.0 neonflaretech.cfd
 0.0.0.0 neonsbegstercollide.cfd
 0.0.0.0 neored.ai
 0.0.0.0 estadisticas.neored.com
@@ -66884,6 +66879,12 @@
 0.0.0.0 pcdwm.com
 0.0.0.0 utiq.pcgameshardware.de
 0.0.0.0 piwik.pcgamingwiki.com
+0.0.0.0 pchelpsoft.com
+0.0.0.0 cloud.pchelpsoft.com
+0.0.0.0 inapp.pchelpsoft.com
+0.0.0.0 offers.pchelpsoft.com
+0.0.0.0 store.pchelpsoft.com
+0.0.0.0 www.pchelpsoft.com
 0.0.0.0 pcicifogr.com
 0.0.0.0 sp.pcid.ca
 0.0.0.0 pcipbsmdiqsx.com
@@ -67030,6 +67031,7 @@
 0.0.0.0 perfectionholic.com
 0.0.0.0 newfeatureview.perfectionholic.com
 0.0.0.0 perfectmarket.com
+0.0.0.0 perfectstickyrenewal.com
 0.0.0.0 log.perfecttitspics.com
 0.0.0.0 clientlog.perfectworldgames.com
 0.0.0.0 dlog.perfectworldgames.com
@@ -67614,6 +67616,7 @@
 0.0.0.0 rtb-eu-v4.pixelpluses.com
 0.0.0.0 pixelpop.co
 0.0.0.0 app.pixelpop.co
+0.0.0.0 pixelquestify.cfd
 0.0.0.0 pixelroyal.fun
 0.0.0.0 pixeltrey.com
 0.0.0.0 pixelvoyage.cfd
@@ -69955,6 +69958,7 @@
 0.0.0.0 quietleaffield.com
 0.0.0.0 quietyellowday.com
 0.0.0.0 pixel.quikly.com
+0.0.0.0 quilescliona.com
 0.0.0.0 smetrics.quill.com
 0.0.0.0 collector.quillbot.com
 0.0.0.0 gtm.quillbot.com
@@ -70062,7 +70066,6 @@
 0.0.0.0 ads-us.r2drtb.com
 0.0.0.0 r30address.com
 0.0.0.0 r30deai.com
-0.0.0.0 r33d.xyz
 0.0.0.0 cdn3.r34comix.com
 0.0.0.0 r3f.technology
 0.0.0.0 vf.r3f.technology
@@ -71102,6 +71105,7 @@
 0.0.0.0 knfkd.revzilla.com
 0.0.0.0 rewalconiu.cyou
 0.0.0.0 reward-recallnetwork.xyz
+0.0.0.0 reward-style.com
 0.0.0.0 rewardany.com
 0.0.0.0 www.rewardany.com
 0.0.0.0 rewardsaffiliates.com
@@ -73147,6 +73151,8 @@
 0.0.0.0 9145.searchmagnified.com
 0.0.0.0 searchmarketing.com
 0.0.0.0 tracking.searchmarketing.com
+0.0.0.0 searchmarquis.com
+0.0.0.0 www.searchmarquis.com
 0.0.0.0 searchmaven.co
 0.0.0.0 searchnowexpert.com
 0.0.0.0 searchpoweronline.com
@@ -73769,8 +73775,6 @@
 0.0.0.0 service-office-julia.xyz
 0.0.0.0 service-traefik-github.xyz
 0.0.0.0 service-twitter-template.xyz
-0.0.0.0 services-opposition.fr
-0.0.0.0 services-oppositions.fr
 0.0.0.0 swrm.serving-ad.com
 0.0.0.0 serving-sys.com
 0.0.0.0 servingcdn.net
@@ -74016,6 +74020,7 @@
 0.0.0.0 shellnescarlett.com
 0.0.0.0 trk.shelly.cloud
 0.0.0.0 creative.shemale.show
+0.0.0.0 shemrec.cc
 0.0.0.0 shenajou.com
 0.0.0.0 shengfleming.com
 0.0.0.0 shenshiads.com
@@ -75268,7 +75273,6 @@
 0.0.0.0 smatr.net
 0.0.0.0 smbcard-jp.com
 0.0.0.0 smcad.net
-0.0.0.0 smcad.org
 0.0.0.0 smconene.pro
 0.0.0.0 smct.co
 0.0.0.0 ep.smct.co
@@ -76842,7 +76846,6 @@
 0.0.0.0 stylish-airport.com
 0.0.0.0 stylish-knife.com
 0.0.0.0 stylishbuds.com
-0.0.0.0 styluse.cfd
 0.0.0.0 events.stylux.io
 0.0.0.0 traffic.styria.hr
 0.0.0.0 client.su89-cdn.net
@@ -78890,7 +78893,6 @@
 0.0.0.0 tiktok-verifiedbadge.com
 0.0.0.0 tiktok-voice-generator.com
 0.0.0.0 tiktok-workpathfinder.com
-0.0.0.0 tiktok1.work
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 tiktokpangle.us
 0.0.0.0 api16-access-ttp.tiktokpangle.us
@@ -80803,7 +80805,6 @@
 0.0.0.0 icon.dt.twrmnd.com
 0.0.0.0 twyn.com
 0.0.0.0 et.twyn.com
-0.0.0.0 tx-hoverboard.com
 0.0.0.0 livetech.shopee.co.id.txlivecdn.com
 0.0.0.0 livetech.shopee.ph.txlivecdn.com
 0.0.0.0 livetech.shopee.co.th.txlivecdn.com
@@ -82362,6 +82363,8 @@
 0.0.0.0 wt.viagogo.net
 0.0.0.0 viagrasamplesfrompfizer.com
 0.0.0.0 viagrawinner.com
+0.0.0.0 vialotadom.com
+0.0.0.0 ak.vialotadom.com
 0.0.0.0 vianboaegiaed.website
 0.0.0.0 viantinc.com
 0.0.0.0 cdn.viantinc.com
@@ -83212,7 +83215,6 @@
 0.0.0.0 stats.vk-portal.net
 0.0.0.0 vkcdnservice.com
 0.0.0.0 deliver.vkcdnservice.com
-0.0.0.0 vkezgxtq.shop
 0.0.0.0 vkonrakte.com
 0.0.0.0 vkulake.com
 0.0.0.0 vkupon.ru
@@ -83478,6 +83480,7 @@
 0.0.0.0 activity-flow.vtex.com
 0.0.0.0 sp.vtex.com
 0.0.0.0 telemetry.vtex.com
+0.0.0.0 vtook3j0l.com
 0.0.0.0 vtracy.de
 0.0.0.0 red.vtracy.de
 0.0.0.0 vtrtl.de
@@ -83620,7 +83623,6 @@
 0.0.0.0 w3counter.com
 0.0.0.0 www.w3counter.com
 0.0.0.0 analytics.w3goodies.com
-0.0.0.0 w45p.xyz
 0.0.0.0 w4h5ae.ru
 0.0.0.0 w4jj99ggt.xyz
 0.0.0.0 w55c.net
@@ -86239,7 +86241,6 @@
 0.0.0.0 yuckyducks.xyz
 0.0.0.0 yudvl.org
 0.0.0.0 yugvawefin.cloud
-0.0.0.0 yuhuan.cc
 0.0.0.0 yuiiy.com
 0.0.0.0 yukclick.me
 0.0.0.0 yukishigure.com
