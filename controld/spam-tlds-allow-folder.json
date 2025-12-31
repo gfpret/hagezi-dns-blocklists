@@ -3011,6 +3011,13 @@
       }
     },
     {
+      "PK": "mer.eco",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "metahub.space",
       "action": {
         "do": 1,
@@ -3306,6 +3313,13 @@
     },
     {
       "PK": "netcetera.biz",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "neurosama.shop",
       "action": {
         "do": 1,
         "status": 1

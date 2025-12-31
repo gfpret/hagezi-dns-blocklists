@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Dec 2025 14:32 UTC
-# Version: 2025.1230.1432.05
+# Last modified: 31 Dec 2025 02:31 UTC
+# Version: 2025.1231.0231.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 81657
+# Number of entries: 81661
 #
 local=/000000000000000000000000000000000000000000000000000000000000000.gay/
 local=/001-adult-toys-n-sex-dolls.com/
@@ -13025,6 +13025,7 @@ local=/cbexplorer.com/
 local=/cbhours.com/
 local=/cbigtits.com/
 local=/cblforadults.com/
+local=/cbxyz.com/
 local=/cc17av.info/
 local=/cc18.tv/
 local=/ccasex.com/
@@ -25514,7 +25515,6 @@ local=/fungirl.in/
 local=/fungirls.ch/
 local=/fungirls.in/
 local=/funinxxoo.com/
-local=/funix.nl/
 local=/funker530.com/
 local=/funkypornos.com/
 local=/funlove.info/
@@ -27618,6 +27618,7 @@ local=/gg-th.com/
 local=/gg650.com/
 local=/ggbases.com/
 local=/ggdrop.cloud/
+local=/ggg-german-bukkake.com/
 local=/ggjav.tv/
 local=/gglandailsex69a.shop/
 local=/gglandcstarxxxc.shop/
@@ -37058,6 +37059,7 @@ local=/kumprasexports.com/
 local=/kundun1069.com/
 local=/kupid.ai/
 local=/kupidon.toys/
+local=/kupujemprodajem.com/
 local=/kurakura21.com/
 local=/kurakura21.net/
 local=/kurdporn.com/
@@ -37280,6 +37282,7 @@ local=/lamdepmoingay.net/
 local=/lamdepmoingay.website/
 local=/lameladieva.net/
 local=/lamora.online/
+local=/lanabee.me/
 local=/lanagrey.de/
 local=/lanasbigboobs.com/
 local=/lanaudierequalifie.com/
@@ -43399,6 +43402,7 @@ local=/nakedgrapefruit.com/
 local=/nakedhairypics.com/
 local=/nakedhairypussies.com/
 local=/nakedhazelbeard.com/
+local=/nakedher.com/
 local=/nakedhornyteens.com/
 local=/nakedhotpics.com/
 local=/nakedjapanesegirl.net/
@@ -47617,6 +47621,7 @@ local=/piasexconsult.shop/
 local=/piasharma.com/
 local=/piau.in/
 local=/pibblewashing.gay/
+local=/pic-chik.org/
 local=/picacomic.com/
 local=/picadult.xyz/
 local=/picansex.com/
@@ -56038,6 +56043,7 @@ local=/recordingsexchange.xyz/
 local=/recordsexchange.xyz/
 local=/rectube.me/
 local=/recu.me/
+local=/recurbate.com/
 local=/recurbate.fans/
 local=/recurbate1.com/
 local=/recxxx.com/
@@ -56585,7 +56591,6 @@ local=/riverasian.com/
 local=/riveroxxxrbit.shop/
 local=/riverporn.pro/
 local=/riverpxxx18earl.shop/
-local=/riverside.rocks/
 local=/riversideadultdayprogram.com/
 local=/riverstyx.com/
 local=/rivgo.com/
@@ -57491,6 +57496,7 @@ local=/salomporno.top/
 local=/salon-eroticshows.com/
 local=/salon-eroticshows.fr/
 local=/salon-essex.site/
+local=/salonfryzjerskialewlos.pl/
 local=/salonihyderabadescorts.in/
 local=/saloniverma.in/
 local=/salonsexy.xyz/
@@ -65623,7 +65629,6 @@ local=/songhong.info/
 local=/songsex.com/
 local=/songsexchange.xyz/
 local=/songsexy.xyz/
-local=/songteksten.net/
 local=/songvuimoingay.shop/
 local=/soniabarta.com/
 local=/soniapandey.com/
@@ -75445,7 +75450,6 @@ local=/xkarina.com/
 local=/xkeezmovies.com/
 local=/xklygnb6ocuopxxxg49r.site/
 local=/xksex.xyz/
-local=/xl.pt/
 local=/xl-gaytube.com/
 local=/xl-porn.com/
 local=/xladyb.com/

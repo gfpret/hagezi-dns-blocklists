@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Dec 2025 14:29 UTC
-# Version: 2025.1230.1429.23
+# Last modified: 31 Dec 2025 02:28 UTC
+# Version: 2025.1231.0228.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 42355
+# Number of entries: 42357
 #
 local=/000-online-casino.com/
 local=/0009casino.com/
@@ -25473,6 +25473,8 @@ local=/luckygambler.com/
 local=/luckygames.be/
 local=/luckygames.io/
 local=/luckygem.com/
+local=/luckygem.site/
+local=/luckygem44.com/
 local=/luckygem5.com/
 local=/luckygemcasino.co/
 local=/luckygemcasinop.com/

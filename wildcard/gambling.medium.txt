@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Dec 2025 14:28 UTC
-# Version: 2025.1230.1428.11
+# Last modified: 31 Dec 2025 02:27 UTC
+# Version: 2025.1231.0227.18
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 90576
+# Number of entries: 90578
 #
 *.0-casino.info
 *.000-online-casino.com
@@ -54614,6 +54614,8 @@
 *.luckygames.be
 *.luckygames.io
 *.luckygem.com
+*.luckygem.site
+*.luckygem44.com
 *.luckygem5.com
 *.luckygemcasino.co
 *.luckygemcasinog.com

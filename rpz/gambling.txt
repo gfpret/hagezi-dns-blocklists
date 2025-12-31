@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767104760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767147900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 30 Dec 2025 14:26 UTC
-; Version: 2025.1230.1426.22
+; Last modified: 31 Dec 2025 02:25 UTC
+; Version: 2025.1231.0225.30
 ; Syntax: RPZ
-; Number of entries: 409388
+; Number of entries: 409392
 ;
 1xbet.ac CNAME .
 *.1xbet.ac CNAME .
@@ -211068,6 +211068,8 @@ luckygameph.com CNAME .
 *.luckygameph.com CNAME .
 luckygem.com CNAME .
 *.luckygem.com CNAME .
+luckygem44.com CNAME .
+*.luckygem44.com CNAME .
 luckygem5.com CNAME .
 *.luckygem5.com CNAME .
 luckygemcasinog.com CNAME .
@@ -356002,6 +356004,8 @@ lucky-7-casino.site CNAME .
 *.lucky-7-casino.site CNAME .
 luckycasino-old.site CNAME .
 *.luckycasino-old.site CNAME .
+luckygem.site CNAME .
+*.luckygem.site CNAME .
 luckygreencasino.site CNAME .
 *.luckygreencasino.site CNAME .
 luckyslots303.site CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Dec 2025 14:32 UTC
-# Version: 2025.1230.1432.05
+# Last modified: 31 Dec 2025 02:31 UTC
+# Version: 2025.1231.0231.12
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 81657
+# Number of entries: 81661
 #
 *.000000000000000000000000000000000000000000000000000000000000000.gay
 *.001-adult-toys-n-sex-dolls.com
@@ -13025,6 +13025,7 @@
 *.cbhours.com
 *.cbigtits.com
 *.cblforadults.com
+*.cbxyz.com
 *.cc17av.info
 *.cc18.tv
 *.ccasex.com
@@ -25514,7 +25515,6 @@
 *.fungirls.ch
 *.fungirls.in
 *.funinxxoo.com
-*.funix.nl
 *.funker530.com
 *.funkypornos.com
 *.funlove.info
@@ -27618,6 +27618,7 @@
 *.gg650.com
 *.ggbases.com
 *.ggdrop.cloud
+*.ggg-german-bukkake.com
 *.ggjav.tv
 *.gglandailsex69a.shop
 *.gglandcstarxxxc.shop
@@ -37058,6 +37059,7 @@
 *.kundun1069.com
 *.kupid.ai
 *.kupidon.toys
+*.kupujemprodajem.com
 *.kurakura21.com
 *.kurakura21.net
 *.kurdporn.com
@@ -37280,6 +37282,7 @@
 *.lamdepmoingay.website
 *.lameladieva.net
 *.lamora.online
+*.lanabee.me
 *.lanagrey.de
 *.lanasbigboobs.com
 *.lanaudierequalifie.com
@@ -43399,6 +43402,7 @@
 *.nakedhairypics.com
 *.nakedhairypussies.com
 *.nakedhazelbeard.com
+*.nakedher.com
 *.nakedhornyteens.com
 *.nakedhotpics.com
 *.nakedjapanesegirl.net
@@ -47617,6 +47621,7 @@
 *.piasharma.com
 *.piau.in
 *.pibblewashing.gay
+*.pic-chik.org
 *.picacomic.com
 *.picadult.xyz
 *.picansex.com
@@ -56038,6 +56043,7 @@
 *.recordsexchange.xyz
 *.rectube.me
 *.recu.me
+*.recurbate.com
 *.recurbate.fans
 *.recurbate1.com
 *.recxxx.com
@@ -56585,7 +56591,6 @@
 *.riveroxxxrbit.shop
 *.riverporn.pro
 *.riverpxxx18earl.shop
-*.riverside.rocks
 *.riversideadultdayprogram.com
 *.riverstyx.com
 *.rivgo.com
@@ -57491,6 +57496,7 @@
 *.salon-eroticshows.com
 *.salon-eroticshows.fr
 *.salon-essex.site
+*.salonfryzjerskialewlos.pl
 *.salonihyderabadescorts.in
 *.saloniverma.in
 *.salonsexy.xyz
@@ -65623,7 +65629,6 @@
 *.songsex.com
 *.songsexchange.xyz
 *.songsexy.xyz
-*.songteksten.net
 *.songvuimoingay.shop
 *.soniabarta.com
 *.soniapandey.com
@@ -75445,7 +75450,6 @@
 *.xkeezmovies.com
 *.xklygnb6ocuopxxxg49r.site
 *.xksex.xyz
-*.xl.pt
 *.xl-gaytube.com
 *.xl-porn.com
 *.xladyb.com

@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 30 Dec 2025 18:39 UTC
-! Version: 2025.1230.1839.33
+! Last modified: 31 Dec 2025 02:34 UTC
+! Version: 2025.1231.0234.41
 ! Syntax: AdBlock
-! Number of entries: 6264
+! Number of entries: 6284
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -164,6 +164,7 @@
 ||vps.559299366.xyz^
 ||57824.com^
 ||dns.58jdl.com^
+||scratchdevfourums.5a3bz.cn^
 ||dns.5ososea.com^
 ||family.5ososea.com^
 ||kids.5ososea.com^
@@ -676,6 +677,7 @@
 ||calm-tree-976.blanktext.net^
 ||dns.blaumer.dev^
 ||blewpass.com^
+||withcanlite.bling.org^
 ||us1.blissdns.net^
 ||doh.blitarian.com^
 ||blocka.net^
@@ -765,6 +767,7 @@
 ||sabine.bruno2000.link^
 ||help.brynlewis.com^
 ||adguard.bse4792.site^
+||canliteisawsome.bsfa.info^
 ||edu.bsfa.info^
 ||travel.bsfa.info^
 ||doh.bt.com^
@@ -806,6 +809,7 @@
 ||bananakun.camdvr.org^
 ||adguard.camn.uk^
 ||canadaproxy.info^
+||canlite.org^
 ||cantfindme.org^
 ||2.dnscrypt-cert.captnemo.in^
 ||doh.captnemo.in^
@@ -1057,6 +1061,7 @@
 ||doh.cnetwork.cloud^
 ||adguard.aa4.co.uk^
 ||akashiro.co.id^
+||fpfanzduucru.anchorchain.co.za^
 ||antidnsvpn.co.cc^
 ||binhexsolutions.co.uk^
 ||btunnel.co.in^
@@ -1347,6 +1352,7 @@
 ||dns.d8e.ru^
 ||dns.d94.xyz^
 ||dabmix.com^
+||daddyproxy.com^
 ||dns.dallinbryce.com^
 ||fr.dalockd.net^
 ||orbit.tutor.damienhollier.com^
@@ -1503,6 +1509,7 @@
 ||disbish.com^
 ||disconnect.me^
 ||doh.disconnect.app^
+||discountdiskz.com^
 ||smart-tiger-985.discovergeographics.com^
 ||blackdragon6699.diskstation.me^
 ||ebpmc.diskstation.me^
@@ -2090,6 +2097,8 @@
 ||fastestvpn.com^
 ||fastfoxvpn.com^
 ||fastfreeproxy.info^
+||desmossciencehelp.global.ssl.fastly.net^
+||fastlyusers.global.ssl.fastly.net^
 ||fastp.org^
 ||adh.fastpacefixit.info^
 ||fastproxy.nl^
@@ -2452,6 +2461,7 @@
 ||goldenfrog.com^
 ||dns.goldplate.org^
 ||golegana.de^
+||gologin.com^
 ||dev.gonnadive.com^
 ||adguard.gonzcid.com^
 ||doh-primary-pool.goodbyegambling.com^
@@ -2487,6 +2497,8 @@
 ||greatestfreeproxy.com^
 ||dns.green-ping.lol^
 ||adguard.green1052.com^
+||pleasework.greenaudio.ch^
+||theyhavehollowknight.greenaudio.ch^
 ||c00lkiddtech.ut.greenaudio.ch^
 ||terms.graph.greenmantools.com^
 ||greenproxy.net^
@@ -3062,6 +3074,7 @@
 ||dns.justinnetworkingsolutions.com^
 ||chemistrytheoandalgebra.justlearning.net^
 ||coolmanbartx.justlearning.net^
+||fcps.justlearning.net^
 ||nxmevip.justlearning.net^
 ||saugatproxm.justlearning.net^
 ||solgorknh.justlearning.net^
@@ -3303,6 +3316,7 @@
 ||xm.ln7371.top^
 ||loadlow.me^
 ||dns.lobbygod.com^
+||locabrowser.com^
 ||localto.net^
 ||localtonet.com^
 ||locaproxy.com^
@@ -3982,6 +3996,7 @@
 ||d.onlyjsmylord.org^
 ||info.onnemaa.ee^
 ||ojjccwjwov.onnemaa.ee^
+||secroxy-node-4.onrender.com^
 ||andybunn.onthewifi.com^
 ||onweb.info^
 ||onyx7.com^
@@ -4299,6 +4314,7 @@
 ||prox.pw^
 ||proxandthecity.com^
 ||proxbomb.com^
+||proxbud.com^
 ||proxery.com^
 ||proxfree.com^
 ||proxied.org^
@@ -4466,6 +4482,7 @@
 ||psiphon.ca^
 ||psiphon3.com^
 ||psociety.de^
+||psybolt.com^
 ||bit.psyk.fr^
 ||dns.psyk.fr^
 ||ptoserver.com^
@@ -4981,6 +4998,7 @@
 ||solaxy.live^
 ||soleilvpn-app.com^
 ||pteryla.solicituddemateriales.cl^
+||siencehub.solicituddemateriales.cl^
 ||solidproxy.net^
 ||adguard.soloanvill.ru^
 ||ns.solutics.ec^
@@ -4989,6 +5007,7 @@
 ||somelikeitproxy.com^
 ||bwg.sooda.moe^
 ||r.soraapp.gq^
+||soundwaveearbuds.com^
 ||sourceproxy.com^
 ||spacedns.org^
 ||adguard.spaceindex.net^
@@ -5275,6 +5294,7 @@
 ||telleport.me^
 ||tempdns.net^
 ||temproxy.com^
+||tempshf.world^
 ||agh.srv.tenete.net^
 ||vpn-tw.teng.sh^
 ||tenta.com^

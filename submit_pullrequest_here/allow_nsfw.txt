@@ -124,6 +124,7 @@ forumactif.com
 foxsports.com
 fr.de
 ft.com
+funix.nl
 gbnews.com
 genius.com
 globalnews.ca
@@ -242,6 +243,7 @@ rentry.org
 repo.anamy.gay
 reporteindigo.com
 ributed.com
+riverside.rocks
 rmbl.ws
 rtl.de
 rtp.pt
@@ -262,6 +264,7 @@ sky.de
 skyarts.tv
 skygo.sky.com
 soapcentral.com
+songteksten.net
 sotwe.com
 spiegel.de
 sportsnet.ca
@@ -332,6 +335,7 @@ wowtv.de
 wwe.com
 wynk.in
 x.co
+xl.pt
 yad2.co.il
 yapfiles.ru
 yesterdayuk.com

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767119940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767148440 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 30 Dec 2025 18:39 UTC
-; Version: 2025.1230.1839.33
+; Last modified: 31 Dec 2025 02:34 UTC
+; Version: 2025.1231.0234.41
 ; Syntax: RPZ
-; Number of entries: 12528
+; Number of entries: 12568
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -649,6 +649,10 @@ bt.demoteam.ch CNAME .
 *.bt.demoteam.ch CNAME .
 digitale-gesellschaft.ch CNAME .
 *.digitale-gesellschaft.ch CNAME .
+pleasework.greenaudio.ch CNAME .
+*.pleasework.greenaudio.ch CNAME .
+theyhavehollowknight.greenaudio.ch CNAME .
+*.theyhavehollowknight.greenaudio.ch CNAME .
 c00lkiddtech.ut.greenaudio.ch CNAME .
 *.c00lkiddtech.ut.greenaudio.ch CNAME .
 doh.immerda.ch CNAME .
@@ -737,6 +741,8 @@ topwriting.redalameda.cl CNAME .
 *.topwriting.redalameda.cl CNAME .
 pteryla.solicituddemateriales.cl CNAME .
 *.pteryla.solicituddemateriales.cl CNAME .
+siencehub.solicituddemateriales.cl CNAME .
+*.siencehub.solicituddemateriales.cl CNAME .
 math.swift.cl CNAME .
 *.math.swift.cl CNAME .
 newdropper.swift.cl CNAME .
@@ -891,6 +897,8 @@ doh.360.cn CNAME .
 *.doh.360.cn CNAME .
 dot.360.cn CNAME .
 *.dot.360.cn CNAME .
+scratchdevfourums.5a3bz.cn CNAME .
+*.scratchdevfourums.5a3bz.cn CNAME .
 dns.baishiyuan.cn CNAME .
 *.dns.baishiyuan.cn CNAME .
 alphabio.baodacn.cn CNAME .
@@ -1803,6 +1811,8 @@ cyberssh.com CNAME .
 *.cyberssh.com CNAME .
 dabmix.com CNAME .
 *.dabmix.com CNAME .
+daddyproxy.com CNAME .
+*.daddyproxy.com CNAME .
 dns.dallinbryce.com CNAME .
 *.dns.dallinbryce.com CNAME .
 orbit.tutor.damienhollier.com CNAME .
@@ -1873,6 +1883,8 @@ dirtyworkproxy.com CNAME .
 *.dirtyworkproxy.com CNAME .
 disbish.com CNAME .
 *.disbish.com CNAME .
+discountdiskz.com CNAME .
+*.discountdiskz.com CNAME .
 smart-tiger-985.discovergeographics.com CNAME .
 *.smart-tiger-985.discovergeographics.com CNAME .
 districtnewyork.com CNAME .
@@ -2327,6 +2339,8 @@ gobestvpn.com CNAME .
 *.gobestvpn.com CNAME .
 goldenfrog.com CNAME .
 *.goldenfrog.com CNAME .
+gologin.com CNAME .
+*.gologin.com CNAME .
 dev.gonnadive.com CNAME .
 *.dev.gonnadive.com CNAME .
 adguard.gonzcid.com CNAME .
@@ -2909,6 +2923,8 @@ dns.lithvik.com CNAME .
 *.dns.lithvik.com CNAME .
 dns.lobbygod.com CNAME .
 *.dns.lobbygod.com CNAME .
+locabrowser.com CNAME .
+*.locabrowser.com CNAME .
 localtonet.com CNAME .
 *.localtonet.com CNAME .
 locaproxy.com CNAME .
@@ -3255,6 +3271,8 @@ onlineanonymizer.com CNAME .
 *.onlineanonymizer.com CNAME .
 onlineipchanger.com CNAME .
 *.onlineipchanger.com CNAME .
+secroxy-node-4.onrender.com CNAME .
+*.secroxy-node-4.onrender.com CNAME .
 andybunn.onthewifi.com CNAME .
 *.andybunn.onthewifi.com CNAME .
 onyx7.com CNAME .
@@ -3481,6 +3499,8 @@ proxandthecity.com CNAME .
 *.proxandthecity.com CNAME .
 proxbomb.com CNAME .
 *.proxbomb.com CNAME .
+proxbud.com CNAME .
+*.proxbud.com CNAME .
 proxery.com CNAME .
 *.proxery.com CNAME .
 proxfree.com CNAME .
@@ -3623,6 +3643,8 @@ proxyway.com CNAME .
 *.proxyway.com CNAME .
 psiphon3.com CNAME .
 *.psiphon3.com CNAME .
+psybolt.com CNAME .
+*.psybolt.com CNAME .
 ptoserver.com CNAME .
 *.ptoserver.com CNAME .
 publicdnsserver.com CNAME .
@@ -3909,6 +3931,8 @@ soleilvpn-app.com CNAME .
 *.soleilvpn-app.com CNAME .
 somelikeitproxy.com CNAME .
 *.somelikeitproxy.com CNAME .
+soundwaveearbuds.com CNAME .
+*.soundwaveearbuds.com CNAME .
 sourceproxy.com CNAME .
 *.sourceproxy.com CNAME .
 sigmatic.spacejamhd.com CNAME .
@@ -6255,6 +6279,8 @@ bizfast.info CNAME .
 *.bizfast.info CNAME .
 brazilproxy.info CNAME .
 *.brazilproxy.info CNAME .
+canliteisawsome.bsfa.info CNAME .
+*.canliteisawsome.bsfa.info CNAME .
 edu.bsfa.info CNAME .
 *.edu.bsfa.info CNAME .
 travel.bsfa.info CNAME .
@@ -8071,6 +8097,10 @@ faradns.net CNAME .
 *.faradns.net CNAME .
 faradns2.net CNAME .
 *.faradns2.net CNAME .
+desmossciencehelp.global.ssl.fastly.net CNAME .
+*.desmossciencehelp.global.ssl.fastly.net CNAME .
+fastlyusers.global.ssl.fastly.net CNAME .
+*.fastlyusers.global.ssl.fastly.net CNAME .
 2.dnscrypt-cert.ffmuc.net CNAME .
 *.2.dnscrypt-cert.ffmuc.net CNAME .
 doh.ffmuc.net CNAME .
@@ -8281,6 +8311,8 @@ chemistrytheoandalgebra.justlearning.net CNAME .
 *.chemistrytheoandalgebra.justlearning.net CNAME .
 coolmanbartx.justlearning.net CNAME .
 *.coolmanbartx.justlearning.net CNAME .
+fcps.justlearning.net CNAME .
+*.fcps.justlearning.net CNAME .
 nxmevip.justlearning.net CNAME .
 *.nxmevip.justlearning.net CNAME .
 saugatproxm.justlearning.net CNAME .
@@ -9373,6 +9405,8 @@ goga7777777.bissnes.org CNAME .
 *.goga7777777.bissnes.org CNAME .
 essay.gov.blacknapkins.org CNAME .
 *.essay.gov.blacknapkins.org CNAME .
+withcanlite.bling.org CNAME .
+*.withcanlite.bling.org CNAME .
 dns.blokada.org CNAME .
 *.dns.blokada.org CNAME .
 bmetrics.org CNAME .
@@ -9385,6 +9419,8 @@ tor.calyxinstitute.org CNAME .
 *.tor.calyxinstitute.org CNAME .
 bananakun.camdvr.org CNAME .
 *.bananakun.camdvr.org CNAME .
+canlite.org CNAME .
+*.canlite.org CNAME .
 cantfindme.org CNAME .
 *.cantfindme.org CNAME .
 catdns.org CNAME .
@@ -12097,6 +12133,8 @@ freelux.world CNAME .
 *.freelux.world CNAME .
 letsvpn.world CNAME .
 *.letsvpn.world CNAME .
+tempshf.world CNAME .
+*.tempshf.world CNAME .
 dns.busold.ws CNAME .
 *.dns.busold.ws CNAME .
 grimace-shake.skibidi-rizz-gyatt-fanum-tax-sigma-ohio.ct.ws CNAME .
@@ -12505,6 +12543,8 @@ adguard.yuki2th.xyz CNAME .
 *.adguard.yuki2th.xyz CNAME .
 proxy.yt CNAME .
 *.proxy.yt CNAME .
+fpfanzduucru.anchorchain.co.za CNAME .
+*.fpfanzduucru.anchorchain.co.za CNAME .
 cars-a.co.za CNAME .
 *.cars-a.co.za CNAME .
 crusnik80.co.za CNAME .

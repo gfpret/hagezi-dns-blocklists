@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1767105120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1767148260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 30 Dec 2025 14:32 UTC
-; Version: 2025.1230.1432.05
+; Last modified: 31 Dec 2025 02:31 UTC
+; Version: 2025.1231.0231.12
 ; Syntax: RPZ
-; Number of entries: 163314
+; Number of entries: 163322
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -22958,6 +22958,8 @@ cbigtits.com CNAME .
 *.cbigtits.com CNAME .
 cblforadults.com CNAME .
 *.cblforadults.com CNAME .
+cbxyz.com CNAME .
+*.cbxyz.com CNAME .
 ccasex.com CNAME .
 *.ccasex.com CNAME .
 ccbill.com CNAME .
@@ -36412,6 +36414,8 @@ gg650.com CNAME .
 *.gg650.com CNAME .
 ggbases.com CNAME .
 *.ggbases.com CNAME .
+ggg-german-bukkake.com CNAME .
+*.ggg-german-bukkake.com CNAME .
 ggptnetwork.com CNAME .
 *.ggptnetwork.com CNAME .
 ggwlive.com CNAME .
@@ -45510,6 +45514,8 @@ kumprasexports.com CNAME .
 *.kumprasexports.com CNAME .
 kundun1069.com CNAME .
 *.kundun1069.com CNAME .
+kupujemprodajem.com CNAME .
+*.kupujemprodajem.com CNAME .
 kurakura21.com CNAME .
 *.kurakura21.com CNAME .
 kurdporn.com CNAME .
@@ -52404,6 +52410,8 @@ nakedhairypussies.com CNAME .
 *.nakedhairypussies.com CNAME .
 nakedhazelbeard.com CNAME .
 *.nakedhazelbeard.com CNAME .
+nakedher.com CNAME .
+*.nakedher.com CNAME .
 nakedhornyteens.com CNAME .
 *.nakedhornyteens.com CNAME .
 nakedhotpics.com CNAME .
@@ -62648,6 +62656,8 @@ recordbate.com CNAME .
 *.recordbate.com CNAME .
 recordedchat.com CNAME .
 *.recordedchat.com CNAME .
+recurbate.com CNAME .
+*.recurbate.com CNAME .
 recurbate1.com CNAME .
 *.recurbate1.com CNAME .
 recxxx.com CNAME .
@@ -98692,6 +98702,8 @@ kompoz.me CNAME .
 *.kompoz.me CNAME .
 lacoba.me CNAME .
 *.lacoba.me CNAME .
+lanabee.me CNAME .
+*.lanabee.me CNAME .
 lazyporn.me CNAME .
 *.lazyporn.me CNAME .
 lexxxor.me CNAME .
@@ -107696,8 +107708,6 @@ somethingpositive.net CNAME .
 *.somethingpositive.net CNAME .
 sompornth.net CNAME .
 *.sompornth.net CNAME .
-songteksten.net CNAME .
-*.songteksten.net CNAME .
 sosalkino.net CNAME .
 *.sosalkino.net CNAME .
 sosporn.net CNAME .
@@ -109630,8 +109640,6 @@ freeones.nl CNAME .
 *.freeones.nl CNAME .
 frontaalnaakt.nl CNAME .
 *.frontaalnaakt.nl CNAME .
-funix.nl CNAME .
-*.funix.nl CNAME .
 gangleri.nl CNAME .
 *.gangleri.nl CNAME .
 gay-night.nl CNAME .
@@ -115036,6 +115044,8 @@ phimsexyz.org CNAME .
 *.phimsexyz.org CNAME .
 phun.org CNAME .
 *.phun.org CNAME .
+pic-chik.org CNAME .
+*.pic-chik.org CNAME .
 pigdog.org CNAME .
 *.pigdog.org CNAME .
 pinayum.org CNAME .
@@ -117652,6 +117662,8 @@ remont-warszawa.pl CNAME .
 *.remont-warszawa.pl CNAME .
 sadistic.pl CNAME .
 *.sadistic.pl CNAME .
+salonfryzjerskialewlos.pl CNAME .
+*.salonfryzjerskialewlos.pl CNAME .
 sex-tele.pl CNAME .
 *.sex-tele.pl CNAME .
 sex-telefon24.pl CNAME .
@@ -119724,8 +119736,6 @@ trans.pt CNAME .
 *.trans.pt CNAME .
 tvl.pt CNAME .
 *.tvl.pt CNAME .
-xl.pt CNAME .
-*.xl.pt CNAME .
 zonasexy.pt CNAME .
 *.zonasexy.pt CNAME .
 designandlive.pub CNAME .
@@ -120282,8 +120292,6 @@ porno365.rocks CNAME .
 *.porno365.rocks CNAME .
 porntube.rocks CNAME .
 *.porntube.rocks CNAME .
-riverside.rocks CNAME .
-*.riverside.rocks CNAME .
 sbf.rocks CNAME .
 *.sbf.rocks CNAME .
 sexdate.rocks CNAME .
