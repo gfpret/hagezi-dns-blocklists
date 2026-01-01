@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 31 Dec 2025 06:29 UTC
-! Version: 2025.1231.0629.46
+! Last modified: 01 Jan 2026 02:34 UTC
+! Version: 2026.0101.0234.13
 ! Syntax: AdBlock
-! Number of entries: 11406
+! Number of entries: 11407
 !
 ||003396815.xyz^
 ||0123456789nonexistent.com^
@@ -8730,6 +8730,7 @@
 ||startflix.site^
 ||startseite.cc^
 ||startseite.to^
+||tracker.startwork.cv^
 ||starwarez.to^
 ||stealth.si^
 ||steam-repacks.com^
@@ -9699,6 +9700,7 @@
 ||torrentmovie.info^
 ||torrentmovies.co^
 ||torrentnote.com^
+||node02.torrentonline.cc^
 ||torrentonly.com^
 ||torrentor.pro^
 ||torrentoyunindir.com^
@@ -9841,7 +9843,6 @@
 ||trackerlist.xyz^
 ||trackerok.ru^
 ||trackerpmr.com^
-||node01.trackerstatus.live^
 ||trackerturk.biz^
 ||tracker.trackton.ga^
 ||traderz.org^
